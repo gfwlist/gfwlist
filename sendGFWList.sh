@@ -61,6 +61,7 @@ do
     temp=${log%%:*};
     convertedLog+=$temp;
     convertedLog+=":\"";
+    # discard used string
     log=${log#*:};
   else                # log, decode it
     temp=$( echo ${log%%;*} | base64 -d);
