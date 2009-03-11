@@ -20,7 +20,7 @@
 #     $git commit -a -m "init"
 #   Normal Usage:
 #     edit list.txt as usual;
-#     $./synGfwList.sh "say something about this edit"
+#     $./sendGFWList.sh "say something about this edit"
 # Note:
 #   1: You can use "git" to show, diff, log...what's you want;
 #   2: "gfwlist.txt" is a fake file, do NOT commit "list.txt" to svn server;
