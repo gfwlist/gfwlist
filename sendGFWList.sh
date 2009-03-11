@@ -15,7 +15,7 @@
 #     $svn checkout https://autoproxy-gfwlist.googlecode.com/svn/trunk/ gfwList --username your-google-user-name
 #     $cd gfwList
 #     $git init
-#     $base64 gfwlist.txt > list.txt
+#     $base64 -d gfwlist.txt > list.txt
 #     $git add list.txt
 #     $git commit -a -m "init"
 #   Normal Usage:
