@@ -30,11 +30,11 @@
 # dependence
 for cmd in sed date base64 gawk svn git
 do
-	which $cmd &> /dev/null;
-	if [ $? -ne 0 ]; then
-		echo "Depends on $cmd, please install it first.";
-		exit 1;
-	fi
+  which $cmd &> /dev/null;
+  if [ $? -ne 0 ]; then
+    echo "Depends on $cmd, please install it first.";
+    exit 1;
+  fi
 done
 
 # get current revision number
