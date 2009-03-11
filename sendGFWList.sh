@@ -39,7 +39,7 @@ done
 
 # get current revision number
 oriLang=$LANG; export LANG="en_US";
-curRevNum=$( svn info | gawk '/^Last Changed Rev:/ { print $2 }' );
+curRevNum=$( svn info | gawk '/^Last Changed Rev:/ { print $4 }' );
 export LANG=$oriLang;
 
 # save local modification
