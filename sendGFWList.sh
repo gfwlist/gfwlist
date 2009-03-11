@@ -59,7 +59,7 @@ while [ "$log" != "" ]
 do
   if (( $i%2 == 0 )); then # author
     temp=${log%%:*};
-    convertedLog+=$temp;
+    convertedLog+=${temp%@*};
     convertedLog+=":\"";
     # discard used string
     log=${log#*:};
