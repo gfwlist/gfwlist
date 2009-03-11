@@ -94,7 +94,7 @@ git commit -a -m "$*" &&
 
 # commit to remote svn server
 base64 list.txt > gfwlist.txt &&
-svn ci -m $( echo "$*" | base64 ) &&
+svn ci -m $( echo "$*" | base64 -w 0) &&
 
 rm temp.patch;
 
