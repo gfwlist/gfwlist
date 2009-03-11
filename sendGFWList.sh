@@ -59,7 +59,7 @@ while [ "$log" != "" ]
 do
   if (( $i%2 == 0 )); then # author
     temp=${log%%:*};
-    convertedLog+=${temp%@*};
+    convertedLog+=${temp%@*}; # don't include "@gmail.com"
     convertedLog+=":\"";
     # discard used string
     log=${log#*:};
