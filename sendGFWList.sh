@@ -37,7 +37,14 @@ do
   fi
 done
 
-# get current revision number
+svn update &&
+
+if [ "$(git diff)" == "" ]; then
+  echo "not modified.";
+  exit 0;
+fi
+
+# get self last changed revision number
 oriLang=$LANG; export LANG="en_US";
 curRevNum=$( svn info | gawk '/^Last Changed Rev:/ { print $4 }' );
 export LANG=$oriLang;
@@ -45,12 +52,10 @@ export LANG=$oriLang;
 # save local modification
 git diff > temp.patch &&
 
-svn update &&
-
 # get formated author and log information
 log=$(svn log -r $curRevNum:HEAD) &&
 log=$(echo $log | gawk -v RS='------------------------------------------------------------------------'\
-  'NR > 3 { if (NF > 10) printf "%s:%s;", $3, $NF; }' ) &&
+  'NR > 2 { if (NF > 10) printf "%s:%s;", $3, $NF; }' ) &&
 
 # convert from base64
 i=0 &&
