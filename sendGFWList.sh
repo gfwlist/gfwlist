@@ -9,7 +9,7 @@
 #   Update "Last Modified" time;
 #   Update "Checksum";
 #   Commit your changes to local git repository;
-#   Commit your encoded changes to remote svn repository with encoded log.
+#   Commit your encoded changes to remote svn server with encoded log.
 # Usage:
 #   Initialize:
 #     $svn checkout https://autoproxy-gfwlist.googlecode.com/svn/trunk/ gfwList --username your-google-user-name
@@ -37,23 +37,8 @@ do
   fi
 done
 
-svn update &&
-
-if [ "$(git diff)" == "" ]; then
-  echo "not modified.";
-  exit 0;
-fi
-
-# get self last changed revision number
-oriLang=$LANG; export LANG="en_US";
-curRevNum=$( svn info | gawk '/^Last Changed Rev:/ { print $4 }' );
-export LANG=$oriLang;
-
-# save local modification
-git diff > temp.patch &&
-
 # get formated author and log information
-log=$(svn log -r $curRevNum:HEAD) &&
+log=$(svn log -r BASE:HEAD) &&
 log=$(echo $log | gawk -v RS='------------------------------------------------------------------------'\
   'NR > 2 { if (NF > 10) printf "%s:%s;", $3, $NF; }' ) &&
 
@@ -80,26 +65,44 @@ done
 # replace last ";" symbol to "."
 convertedLog=$( echo $convertedLog | sed 's/;$/\./' ) &&
 
+# modified by others, commit to local git repository.
 if [ "$convertedLog" != "" ]; then
-  # modified by others, commit to local repository.
+  svn update &&
+
+  # save local modification
+  git diff > temp.patch &&
+
   # log format: author1:"message1"; author2:"message2"...
   base64 -d gfwlist.txt > list.txt &&
   git commit -a -m "$convertedLog" &&
 
   # apply local modification
-  git apply temp.patch;
+  if [ -s temp.patch ]; then git apply temp.patch; fi &&
+  rm temp.patch;
+fi
+
+if [ "$(git diff)" == "" ]; then
+  echo "list.txt not modified.";
+  exit 0;
+fi
+
+if [ "$*" == "" ]; then
+  echo "Empty log, please say something about this modification.";
+  exit 1;
 fi
 
 # update date and checksum
 sed -i s/"Last Modified:.*$"/"Last Modified:  $(date -R -r list.txt)"/ list.txt &&
 ./addChecksum.pl list.txt &&
 
-# save self change to git
+# save self change to git. exit directly if conflicting.
 git commit -a -m "$*" &&
 
 # commit to remote svn server
 base64 list.txt > gfwlist.txt &&
-svn ci gfwlist.txt -m $( echo "$*" | base64 -w 0) &&
-
-rm temp.patch;
-
+(
+  # "svn ci" and "git commit" are atomic operations
+  svn ci gfwlist.txt -m $( echo "$*" | base64 -w 0) ||
+  # "svn ci" may be failed because of connection problems.
+  git reset HEAD^;
+)
