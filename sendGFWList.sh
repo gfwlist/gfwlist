@@ -104,5 +104,9 @@ base64 list.txt > gfwlist.txt &&
   # "svn ci" and "git commit" are atomic operations
   svn ci gfwlist.txt -m $( echo "$*" | base64 -w 0) ||
   # "svn ci" may be failed because of connection problems.
-  git reset HEAD^;
-)
+  git reset HEAD^ 1> /dev/null;
+) &&
+
+# BASE++, HEAD++, if committed.
+svn update 1> /dev/null;
+
