@@ -23,8 +23,9 @@
 #     $./sendGFWList.sh "say something about this edit"
 # Note:
 #   1: You can use "git" to show, diff, log...what's you want;
-#   2: "gfwlist.txt" is a fake file, do NOT commit "list.txt" to svn server;
-#   3: Do NOT use any unicode character in the list, there is a known bug.
+#   2: Do NOT commit "list.txt" to svn server (it won't by default);
+#   3: Do NOT use any unicode character in the list, there is a known bug;
+#   4: Do NOT "svn update", run this script to update / commit at any time.
 ###############################################################################
 
 # dependence
