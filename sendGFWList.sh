@@ -26,10 +26,10 @@
 #   2: Do NOT commit "list.txt" to svn server (it won't by default);
 #   3: Do NOT use any unicode character in the list, there is a known bug;
 #   4: Do NOT "svn update", run this script to update / commit at any time.
-###############################################################################
+################################################################################
 
 # dependence
-for cmd in sed date base64 gawk svn git
+for cmd in sed date base64 gawk svn git perl
 do
   which $cmd &> /dev/null;
   if [ $? -ne 0 ]; then
