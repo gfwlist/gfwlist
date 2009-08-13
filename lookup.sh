@@ -9,7 +9,7 @@ while read line
 do
 
   host=$( echo "$line" |
-    grep -oE "[a-z0-9]([a-z0-9_\.\-]*[a-z0-9])?\.[a-z]{2,3}" |
+    grep -oE "[a-z0-9]([a-z0-9_\.\-]*[a-z0-9])?\.[a-z]{2,4}" |
     grep -vE "dot$|htm$|php$" );
 
   [ "$host" ] && [ "$(nslookup $host | grep $1)" ] && echo $host;
