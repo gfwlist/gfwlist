@@ -75,7 +75,7 @@ if [ "$convertedLog" != "" ]; then
 
   # log format: author1:"message1"; author2:"message2"...
   base64 -d gfwlist.txt > list.txt &&
-  git commit -a -m "$convertedLog" &&
+  git commit -a -m "$convertedLog"; 
 
   # apply local modification
   if [ -s temp.patch ]; then git apply temp.patch; fi &&
