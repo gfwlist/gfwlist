@@ -51,20 +51,17 @@ do
   if (( $i%2 == 0 )); then # author
     temp=${log%%:*};
     convertedLog+=${temp%@*}; # don't include "@gmail.com"
-    convertedLog+=":\"";
+    convertedLog+=": ";
     # discard used string
     log=${log#*:};
   else                # log, decode it
     temp=$( echo ${log%%;*} | base64 -d);
     convertedLog+=$temp;
-    convertedLog+="\"; ";
+    convertedLog+="\n";
     log=${log#*;};
   fi
   ((i++));
 done
-
-# replace last ";" symbol to "."
-convertedLog=$( echo $convertedLog | sed 's/;$/\./' ) &&
 
 # modified by others, commit to local git repository.
 if [ "$convertedLog" != "" ]; then
@@ -73,12 +70,11 @@ if [ "$convertedLog" != "" ]; then
   # save local modification
   git diff > temp.patch &&
 
-  # log format: author1:"message1"; author2:"message2"...
   base64 -d gfwlist.txt > list.txt &&
-  git commit -a -m "$convertedLog"; 
+  echo -e $convertedLog | git commit -a -F - ;
 
   # apply local modification
-  if [ -s temp.patch ]; then git apply temp.patch; fi &&
+  [ -s temp.patch ] && git apply temp.patch &&
   rm temp.patch;
 fi
 
