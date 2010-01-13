@@ -10,7 +10,8 @@ do
 
   host=$( echo "$line" |
     grep -oE "[a-z0-9]([a-z0-9_\.\-]*[a-z0-9])?\.[a-z]{2,4}" |
-    grep -vE "dotn$|html$|php$" );
+    grep -vE "(aspx?|dotn|exe|fan|html?|php|zh)$"
+  );
 
   [ "$host" ] && [ "$(nslookup $host | grep -i $1)" ] && echo $host;
 
