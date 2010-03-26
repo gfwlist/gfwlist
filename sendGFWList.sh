@@ -89,7 +89,11 @@ if [ "$*" == "" ]; then
 fi
 
 # make sure the list doesn't contain unicode chars
-file list.txt | grep ASCII 1> /dev/null || (echo "List contains non-ASCII characters, please remove them." && exit 1) &&
+file list.txt | grep ASCII 1> /dev/null ||
+(
+  echo "List contains non-ASCII characters, please remove them." &&
+  exit 1;
+) &&
 
 # update date and checksum
 sed -i s/"Last Modified:.*$"/"Last Modified:  $(date -R -r list.txt)"/ list.txt &&

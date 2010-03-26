@@ -1,7 +1,15 @@
 #!/bin/bash
 
 if [ $# != 1 ]; then
-  echo -e "Usage:\n $./lookup.sh wordpress\n $./lookup.sh ghs.l.google\n";
+  echo -e "\
+    Usage:
+     $./lookup.sh wordpress
+     $./lookup.sh ghs.l.google
+     $./lookup.sh 72.14.203.121 // ghs
+     $./lookup.sh 67.207.139.81 // Posterous
+     $./lookup.sh 72.32.231.8 // Tumblr
+     $./lookup.sh typepad
+  ";
   exit 1;
 fi
 
