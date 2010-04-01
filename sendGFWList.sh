@@ -22,7 +22,7 @@
 #     edit list.txt as usual;
 #     $./sendGFWList.sh "say something about this edit"
 # Note:
-#   1: You can use "git" to show, diff, log...what's you want;
+#   1: You can use "$git log" "$git show" "$git diff"...;
 #   2: Do NOT commit "list.txt" to svn server (it won't by default);
 #   3: Do NOT use any unicode character in the list, there is a known bug;
 #   4: Do NOT "svn update", run this script to update / commit at any time.
@@ -68,7 +68,7 @@ if [ "$convertedLog" != "" ]; then
   svn update &&
 
   # save local modification
-  git diff > temp.patch &&
+  [ -n "$(git diff)" ] && git diff > temp.patch &&
 
   base64 -d gfwlist.txt > list.txt &&
   echo -e $convertedLog | git commit -a -F - ;
