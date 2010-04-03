@@ -68,7 +68,7 @@ if [ "$convertedLog" != "" ]; then
   svn update &&
 
   # save local modification
-  [ -n "$(git diff)" ] && git diff > temp.patch &&
+  [ -n "$(git diff)" ] && git diff > temp.patch; 
 
   base64 -d gfwlist.txt > list.txt &&
   echo -e $convertedLog | git commit -a -F - ;
