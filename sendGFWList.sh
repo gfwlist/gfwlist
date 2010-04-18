@@ -29,17 +29,17 @@
 ################################################################################
 
 # dependence
-for cmd in sed date base64 gawk svn git perl
+for cmd in sed date base64 gawk svn git perl file
 do
   which $cmd &> /dev/null;
   if [ $? -ne 0 ]; then
-    echo "Depends on $cmd, please install it first.";
+    echo "Error: depends on $cmd, please install it first.";
     exit 1;
   fi
 done
 
 # get formated author and log information
-log=$(svn log -r BASE:HEAD) &&
+log=$(svn log -r BASE:HEAD) || exit 1;
 log=$(echo $log | gawk -v RS='------------------------------------------------------------------------'\
   'NR > 2 { if (NF > 10) printf "%s:%s;", $3, $NF; }' ) &&
 
@@ -55,7 +55,7 @@ do
     # discard used string
     log=${log#*:};
   else                # log, decode it
-    temp=$( echo ${log%%;*} | base64 -d);
+    temp=$( echo ${log%%;*} | base64 -d );
     convertedLog+=$temp;
     convertedLog+="\n";
     log=${log#*;};
@@ -63,54 +63,66 @@ do
   ((i++));
 done
 
-# modified by others, commit to local git repository.
+# modified by others, commit to local git repository
 if [ "$convertedLog" != "" ]; then
-  svn update &&
+  git diff > temp.patch &&
 
-  # save local modification
-  [ -n "$(git diff)" ] && git diff > temp.patch; 
+  svn update || exit 1;
 
-  base64 -d gfwlist.txt > list.txt &&
-  echo -e $convertedLog | git commit -a -F - ;
+  base64 -d gfwlist.txt > list.txt && ./validateChecksum.pl list.txt;
+  if [ $? -ne 0 ]; then
+    echo "Error: gfwlist.txt from svn is invalid!";
+    echo "It must be a download error or somebody made a mistake.";
+    echo "Please check with the last committer or report to maintainers group.";
+    exit 1;
+  fi
 
-  # apply local modification
+  echo -e $convertedLog | git commit -a -F - &&
+
   [ -s temp.patch ] && git apply temp.patch &&
-  rm temp.patch;
+  rm temp.patch &&
+
+  # remove (if exist) empty temp.patch
+  [ ! -s temp.patch -a -e temp.patch ] && rm temp.patch;
 fi
 
 if [ "$(git diff)" == "" ]; then
-  echo "list.txt not modified.";
+  echo "Info: list.txt not modified.";
   exit 0;
 fi
 
 if [ "$*" == "" ]; then
-  echo "Empty log, please say something about this modification.";
+  echo "Error: empty log, please say something about this modification.";
   exit 1;
 fi
 
-# make sure the list doesn't contain unicode chars
-file list.txt | grep ASCII 1> /dev/null ||
-(
-  echo "List contains non-ASCII characters, please remove them." &&
+if [ "$(file list.txt)" != "list.txt: ASCII text" ]; then
+  echo "Error: list.txt, please make sure:";
+  echo "1. there is no non-ASCII characters;";
+  echo "2. configure your text editor to use unix style line break.";
   exit 1;
-) &&
+fi
 
 # update date and checksum
-sed -i s/"Last Modified:.*$"/"Last Modified:  $(date -R -r list.txt)"/ list.txt &&
+sed -i s/"Last Modified:.*$"/"Last Modified: $(date -Rr list.txt)"/ list.txt &&
 ./addChecksum.pl list.txt &&
 
-# save self change to git. exit directly if conflicting.
+# save local changes to git & svn
+# if conflict or network problem occurs: do nothing & throw error message
 git commit -a -m "$*" &&
-
-# commit to remote svn server
-base64 list.txt > gfwlist.txt &&
 (
-  # "svn ci" and "git commit" are atomic operations
+  base64 list.txt > gfwlist.txt &&
+
+  # may be running under Windows + Cygwin?
+  # convert dos new line to unix style, old mac style ignored
+  sed -i 's/\r$//g' gfwlist.txt &&
+
+  # may be failed because of connection/authentication problems
   svn ci gfwlist.txt -m $( echo "$*" | base64 -w 0) ||
-  # "svn ci" may be failed because of connection problems.
+
+  # "svn ci" and "git commit" are atomic operations
   git reset HEAD^ 1> /dev/null;
 ) &&
 
-# BASE++, HEAD++, if committed.
+# BASE++ if committed
 svn update 1> /dev/null;
-
