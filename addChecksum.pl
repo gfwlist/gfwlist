@@ -17,6 +17,9 @@
 use strict;
 use warnings;
 use Digest::MD5 qw(md5_base64);
+use File::stat;
+use POSIX qw(locale_h);
+use POSIX qw(strftime);
 
 die "Usage: $^X $0 subscription.txt\n" unless @ARGV;
 
@@ -25,6 +28,11 @@ my $data = readFile($file);
 
 # Remove already existing checksum
 $data =~ s/^.*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n//gmi;
+
+# Update timestamp
+setlocale(LC_TIME, "C");
+my $timestamp = strftime("%a, %d %b %Y %H:%M:%S %z", localtime(stat($file)->mtime));
+$data =~ s/^!\s*Last Modified:.*$/! Last Modified: $timestamp/mi;
 
 # Calculate new checksum: remove all CR symbols and empty
 # lines and get an MD5 checksum of the result (base64-encoded,

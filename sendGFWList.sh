@@ -15,7 +15,7 @@
 #     $svn checkout https://autoproxy-gfwlist.googlecode.com/svn/trunk/ gfwList --username your-google-user-name
 #     $cd gfwList
 #     $git init
-#     $base64 -d gfwlist.txt > list.txt
+#     $openssl base64 -d -in gfwlist.txt -out list.txt
 #     $git add list.txt
 #     $git commit -a -m "init"
 #   Normal Usage:
@@ -29,7 +29,7 @@
 ################################################################################
 
 # dependence
-for cmd in sed date base64 gawk svn git perl file
+for cmd in sed openssl awk svn git perl file
 do
   which $cmd &> /dev/null;
   if [ $? -ne 0 ]; then
@@ -39,9 +39,8 @@ do
 done
 
 # get formated author and log information
-log=$(svn log -r BASE:HEAD) || exit 1;
-log=$(echo $log | gawk -v RS='------------------------------------------------------------------------'\
-  'NR > 2 { if (NF > 10) printf "%s:%s;", $3, $NF; }' ) &&
+log=$(svn log --xml -r BASE:HEAD) || exit 1;
+log=$(echo $log | awk -v RS='' -F '</?author>|</?msg>' '{ for(i=6;i<NF;i+=4) printf "%s:%s;",$i,$(i+2); }' ) &&
 
 # convert from base64
 i=0 &&
@@ -55,7 +54,7 @@ do
     # discard used string
     log=${log#*:};
   else                # log, decode it
-    temp=$( echo ${log%%;*} | base64 -d );
+    temp=$( echo ${log%%;*} | openssl base64 -d );
     convertedLog+=$temp;
     convertedLog+="\n";
     log=${log#*;};
@@ -69,7 +68,7 @@ if [ "$convertedLog" != "" ]; then
 
   svn update || exit 1;
 
-  base64 -d gfwlist.txt > list.txt && ./validateChecksum.pl list.txt;
+  openssl base64 -d -in gfwlist.txt -out list.txt && ./validateChecksum.pl list.txt;
   if [ $? -ne 0 ]; then
     echo "Error: gfwlist.txt from svn is invalid!";
     echo "It must be a download error or somebody made a mistake.";
@@ -101,7 +100,7 @@ if [ "$*" == "" ]; then
   exit 1;
 fi
 
-if [ "$(file list.txt)" != "list.txt: ASCII text" ]; then
+if [ "$(file -b list.txt)" != "ASCII text" ]; then
   echo "Error: list.txt, please make sure:";
   echo "1. there is no non-ASCII characters;";
   echo "2. configure your text editor to use unix style line break.";
@@ -109,21 +108,18 @@ if [ "$(file list.txt)" != "list.txt: ASCII text" ]; then
 fi
 
 # update date and checksum
-sed -i s/"Last Modified:.*$"/"Last Modified: $(date -Rr list.txt)"/ list.txt &&
 ./addChecksum.pl list.txt &&
 
 # save local changes to git & svn
 # if conflict or network problem occurs: do nothing & throw error message
 git commit -a -m "$*" &&
 (
-  base64 list.txt > gfwlist.txt &&
-
-  # may be running under Windows + Cygwin?
+  openssl base64 -in list.txt |
   # convert dos new line to unix style, old mac style ignored
-  sed -i 's/\r$//g' gfwlist.txt &&
+  tr -d '\r' > gfwlist.txt &&
 
   # may be failed because of connection/authentication problems
-  svn ci gfwlist.txt -m $( echo "$*" | base64 -w 0) ||
+  svn ci gfwlist.txt -m $( echo "$*" | openssl base64 | tr -d '\n') ||
 
   # "svn ci" and "git commit" are atomic operations
   git reset HEAD^ 1> /dev/null;
