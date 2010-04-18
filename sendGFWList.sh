@@ -80,10 +80,15 @@ if [ "$convertedLog" != "" ]; then
   echo -e $convertedLog | git commit -a -F - &&
 
   [ -s temp.patch ] && git apply temp.patch &&
-  rm temp.patch &&
+  rm temp.patch;
 
-  # remove (if exist) empty temp.patch
-  [ ! -s temp.patch -a -e temp.patch ] && rm temp.patch;
+  if [ -s temp.patch ]; then
+    echo "Error: git apply failed, your work saved at temp.patch";
+    exit 1;
+  elif [ -a temp.patch ]; then
+    # empty, remove it
+    rm temp.patch;
+  fi
 fi
 
 if [ "$(git diff)" == "" ]; then
