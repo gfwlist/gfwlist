@@ -2,14 +2,14 @@
 #
 # A simple script help to maintain AutoProxy gfwList easily.
 #
-# Function:
+# Features:
 #   Update local svn repository;
 #   Commit decoded changes(by others in your team) to local git repository
 #           with decoded message and authors name;
-#   Update "Last Modified" time;
-#   Update "Checksum";
+#   Update "Last Modified" & "Checksum";
 #   Commit your changes to local git repository;
-#   Commit your encoded changes to remote svn server with encoded log.
+#   Commit your encoded changes to remote svn server with encoded log;
+#   Plus some error handling.
 # Usage:
 #   Initialize:
 #     $svn checkout https://autoproxy-gfwlist.googlecode.com/svn/trunk/ gfwList --username your-google-user-name
@@ -40,7 +40,7 @@ done
 
 # get formated author and log information
 log=$(svn log --xml -r BASE:HEAD) || exit 1;
-log=$(echo $log | awk -v RS='' -F '</?author>|</?msg>' '{ for(i=6;i<NF;i+=4) printf "%s:%s;",$i,$(i+2); }' ) &&
+log=$(echo $log | awk -v RS='' -F '</?author>|</?msg>' '{ for(i=6;i<NF;i+=4) printf "%s:%s;",$i,$(i+2); }') &&
 
 # convert from base64
 i=0 &&
@@ -68,11 +68,20 @@ if [ "$convertedLog" != "" ]; then
 
   svn update || exit 1;
 
-  openssl base64 -d -in gfwlist.txt -out list.txt && ./validateChecksum.pl list.txt;
+  openssl base64 -d -in gfwlist.txt -out list.txt &&
+  ./validateChecksum.pl list.txt;
   if [ $? -ne 0 ]; then
-    echo "Error: gfwlist.txt from svn is invalid!";
+    # recover, discard broken list.txt
+    git checkout list.txt && git apply temp.patch && rm temp.patch;
+    echo -e "\n\n\n*********************************************************\n";
+    echo "Error: gfwlist.txt from svn is invalid!!!";
     echo "It must be a download error or somebody made a mistake.";
-    echo "Please check with the last committer or report to maintainers group.";
+    echo -e "\nYou can simply run this script again to fix the problem.";
+    echo "But wait...!"
+    echo "This would overwrite all commits till your last update!!!";
+    echo -e "\nIf you are confused, wait somebody else to fix it.";
+    echo "Please always report this to our maintainers group!";
+    echo -e "\n*********************************************************\n\n\n";
     exit 1;
   fi
 
@@ -100,15 +109,15 @@ if [ "$*" == "" ]; then
   exit 1;
 fi
 
+# update date and checksum
+./addChecksum.pl list.txt &&
+
 if [ "$(file -b list.txt)" != "ASCII text" ]; then
-  echo "Error: list.txt, please make sure:";
+  echo "Error: list.txt invalid, please make sure:";
   echo "1. there is no non-ASCII characters;";
   echo "2. configure your text editor to use unix style line break.";
   exit 1;
 fi
-
-# update date and checksum
-./addChecksum.pl list.txt &&
 
 # save local changes to git & svn
 # if conflict or network problem occurs: do nothing & throw error message
@@ -119,7 +128,7 @@ git commit -a -m "$*" &&
   tr -d '\r' > gfwlist.txt &&
 
   # may be failed because of connection/authentication problems
-  svn ci gfwlist.txt -m $( echo "$*" | openssl base64 | tr -d '\n') ||
+  svn ci gfwlist.txt -m $( echo "$*" | openssl base64 | tr -d '\r\n' ) ||
 
   # "svn ci" and "git commit" are atomic operations
   git reset HEAD^ 1> /dev/null;
