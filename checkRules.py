@@ -57,7 +57,7 @@ def main():
             print '=>', curl
         else:
             print '=>', '\033[1;31mexpecting %d, got %d\033[0m' % (expect[t], curl)
-            ferr.write(str(line) + ': "' + rule[:-1] + '", expecting %d, got %d' % (expect[t], curl) + '\n')
+            ferr.write(str(line) + ': "' + rule + '", expecting %d, got %d' % (expect[t], curl) + '\n')
 
 
 if __name__ == '__main__':
