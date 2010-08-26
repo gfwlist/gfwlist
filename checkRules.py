@@ -50,6 +50,7 @@ def main():
         if rule.startswith('[AutoProxy'): continue
         if rule.startswith('!'): continue
         if rule.startswith('@@'): continue
+        if rule.startswith('/') and rule.endswith('/'): continue
         (test, t) = getUrl(rule)
         print '=>', test,
         curl = subprocess.call(['/usr/bin/curl', '-4', '-I', '-m', '5', test], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
