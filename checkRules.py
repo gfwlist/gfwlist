@@ -1,7 +1,30 @@
 #!/usr/bin/python -u
 # vim: ai et fileencoding=utf-8 ts=4 sw=4:
 
+'''
+    This script will read `list.txt', and write both stdout and `list.err'.
+    
+    Rules which are comments or regexs will be ignored.
+    
+    * For `.example.com', if you got anything other than 56, then unless the
+      page contains DPI keyword, consider the rule invalid.
+    
+    * For `||example.com', if you got anything other than 28, then consider
+      the rule invalid. (For issue 117, see below.)
+    
+    * For `|https://*.example.com', if you got anything other than 35, check
+      it manually before considering it invalid.
+    
+    In addition, if you got 6 or 7, check the rule again manually. If in
+    doubt, check the rule again manually. Also, please remember: `Garbage
+    in, garbage out.'
+    
+    XXX: As a workaround for issue 117, `|http://example.com/' will be
+    tested as `.example.com/'.
+'''
+
 from urllib import unquote
+import re
 import subprocess
 import sys
 
@@ -27,11 +50,11 @@ def getUrl(rule):
         rule = rule.decode('gbk', 'ignore')
     if rule.startswith('||'): return ('http://' + rule[2:], IP)
     if rule.startswith('|https'): return (rule[1:], TLS)
-    else:
-        offset += 1
-        if offset >= len(iplist): offset = 0
-        return (testurl % iplist[offset] + rule, URL)
-    return (rule, INVALID)
+    if rule.startswith('|http://'):
+        rule = '.' + rule[8:] # XXX: issue 117
+    offset += 1
+    if offset >= len(iplist): offset = 0
+    return (testurl % iplist[offset] + rule, URL)
 
 def main():
     fin = open('list.txt', 'r')
