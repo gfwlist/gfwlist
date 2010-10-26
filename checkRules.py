@@ -79,6 +79,8 @@ def main():
         curl = subprocess.call(['/usr/bin/curl', '-4', '-I', '-m', '5', test], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         if (t==IP and curl==28) or (t==TLS and curl==35) or (t==URL and curl==56):
             print '=>', curl
+        elif t==IP and curl==56:
+            print '=>', '\033[31mexpecting %d, got %d\033[0m' % (expect[t], curl)
         else:
             print '=>', '\033[1;31mexpecting %d, got %d\033[0m' % (expect[t], curl)
             ferr.write(str(line) + ': "' + rule + '", expecting %d, got %d' % (expect[t], curl) + '\n')
