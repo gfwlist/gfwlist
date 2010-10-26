@@ -43,11 +43,6 @@ expect = {IP: 28, TLS: 35, URL: 56, INVALID: 0}
 def getUrl(rule):
     global offset
 
-    rule = unquote(rule.encode())
-    try:
-        rule = rule.decode('utf-8', 'strict')
-    except UnicodeDecodeError:
-        rule = rule.decode('gbk', 'ignore')
     if rule.startswith('||'): return ('http://' + rule[2:], IP)
     if rule.startswith('|https'): return (rule[1:], TLS)
     if rule.startswith('|http://'):
