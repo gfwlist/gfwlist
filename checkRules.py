@@ -69,14 +69,15 @@ def main():
         if rule.startswith('@@'): continue
         if rule.startswith('/') and rule.endswith('/'): continue
         (test, t) = getUrl(rule)
-        curl = subprocess.call(['/usr/bin/curl', '-4', '-I', '-m', '5', test], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        if (t==IP and curl==28) or (t==TLS and curl==35) or (t==URL and curl==56):
-            pass 
-        elif t==IP and curl==56:
-            print line, '\t', test, '=>', '\033[31mexpecting %d, got %d\033[0m' % (expect[t], curl)
+        val1 = subprocess.call(['/usr/bin/curl', '-4', '-I', '-m', '5', test], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        val2 = subprocess.call(['/usr/bin/curl', '-4', '-I', '-m', '5', test], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        if (t==IP and val1==28 and val2==28) or (t==TLS and val1==35 or val2==35) or (t==URL and val1==56 or val2==56):
+            pass
+        elif t==IP and val1==56 or val2==56:
+            print line, '\t', test, '=>', '\033[31mexpecting %d, got %d %d\033[0m' % (expect[t], val1, val2)
         else:
-            print line, '\t', test, '=>', '\033[1;31mexpecting %d, got %d\033[0m' % (expect[t], curl)
-            ferr.write(str(line) + ': "' + rule + '", expecting %d, got %d' % (expect[t], curl) + '\n')
+            print line, '\t', test, '=>', '\033[1;31mexpecting %d, got %d %d\033[0m' % (expect[t], val1, val2)
+            ferr.write(str(line) + ': "' + rule + '", expecting %d, got %d %d' % (expect[t], val1, val2) + '\n')
 
 
 if __name__ == '__main__':
