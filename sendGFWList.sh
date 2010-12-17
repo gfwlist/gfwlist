@@ -80,7 +80,7 @@ if [ "$convertedLog" != "" ]; then
     echo "But wait...!"
     echo "This would overwrite all commits till your last update!!!";
     echo -e "\nIf you are confused, wait somebody else to fix it.";
-    echo "Please always report this to our maintainers group!";
+    echo "Please always report this to our maintainers' group!";
     echo -e "\n*********************************************************\n\n\n";
     exit 1;
   fi
@@ -91,7 +91,7 @@ if [ "$convertedLog" != "" ]; then
   rm temp.patch;
 
   if [ -s temp.patch ]; then
-    echo "Error: git apply failed, your work saved at temp.patch";
+    echo -e "\n\033[31mError:\033[0m git apply failed, your work saved at temp.patch\n";
     exit 1;
   elif [ -a temp.patch ]; then
     # empty, remove it

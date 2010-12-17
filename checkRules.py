@@ -61,7 +61,6 @@ def main():
         startfrom = 0
     for rule in fin:
         line += 1
-        print line, ':\t', rule,
         rule = rule.strip()
         if line < startfrom: continue
         if not rule: continue
@@ -70,14 +69,13 @@ def main():
         if rule.startswith('@@'): continue
         if rule.startswith('/') and rule.endswith('/'): continue
         (test, t) = getUrl(rule)
-        print '=>', test,
         curl = subprocess.call(['/usr/bin/curl', '-4', '-I', '-m', '5', test], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         if (t==IP and curl==28) or (t==TLS and curl==35) or (t==URL and curl==56):
-            print '=>', curl
+            pass 
         elif t==IP and curl==56:
-            print '=>', '\033[31mexpecting %d, got %d\033[0m' % (expect[t], curl)
+            print line, '\t', test, '=>', '\033[31mexpecting %d, got %d\033[0m' % (expect[t], curl)
         else:
-            print '=>', '\033[1;31mexpecting %d, got %d\033[0m' % (expect[t], curl)
+            print line, '\t', test, '=>', '\033[1;31mexpecting %d, got %d\033[0m' % (expect[t], curl)
             ferr.write(str(line) + ': "' + rule + '", expecting %d, got %d' % (expect[t], curl) + '\n')
 
 
