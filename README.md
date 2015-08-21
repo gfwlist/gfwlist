@@ -10,6 +10,7 @@ We don't dismantle the wall, we just find a hole to bypass then instead. Don't a
 TL;DR: This list embraces websites which Chinese authorities and some service providers don't want Chinese to view on the Internet.
 
 GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+
 GFWList URL(Backup)：http://gfwli.st/gfwlist.txt
 
 Note that due to abuse of github raw function we might change the URL in the future to avoid violation of [ToS](https://github.com/site/terms).
