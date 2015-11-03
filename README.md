@@ -9,8 +9,24 @@ We don't dismantle the wall, we just find a hole to bypass then instead. Don't a
 
 TL;DR: This list embraces websites which Chinese authorities and some service providers don't want Chinese to view on the Internet.
 
+---
+
+## In case you want to request anonymity, you can send report to us directly, please visit [this profile](https://github.com/gfwlist) to retrieve the email address.
+
+WARNING:
+
+* We **WON'T** deal with reports from users of provinces below:
+
+  - Tibet (Tibet Autonomous Region)
+  - Shinjang (XinJiang Uyghur Autonomous Region)
+  - Qinghai (Qinghai Province)
+
+* GFWList doesn't provide prompt update for URLs submitted.
+
+---
+
 GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
 GFWList URL(Backup): http://gfwli.st/gfwlist.txt
 
-Note that due to abuse of github raw function we might change the URL in the future to avoid violation of [ToS](https://github.com/site/terms).
+**Note that due to abuse of github raw function we might change the URL in the future to avoid violation of [ToS](https://github.com/site/terms).**
