@@ -2476,6 +2476,7 @@ var domains = {
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1
    "android.com": 1
+	“alphabet.com”:1
 };
 
 var proxy = "__PROXY__";
