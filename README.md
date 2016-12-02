@@ -12,7 +12,7 @@ TL;DR: This list embraces websites which Chinese authorities and some service pr
 
 ---
 
-## In case you want to request anonymity, you can send report to us directly, please visit [this profile](https://github.com/gfwlist) to retrieve the email address.
+## In case you want to request anonymity, you can send report to us directly, please visit [this profile](https://github.com/cicku) to retrieve the email address.
 
 WARNING:
 
