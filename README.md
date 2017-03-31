@@ -28,6 +28,4 @@ WARNING:
 
 GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
-GFWList URL(Backup): http://gfwli.st/gfwlist.txt
-
 **Note that due to abuse of github raw function we might change the URL in the future to avoid violation of [ToS](https://github.com/site/terms).**
