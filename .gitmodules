@@ -1,0 +1,4 @@
+[submodule "ss-panel"]
+	path = ss-panel
+	url = git@github.com:zhukangfeng/ss-panel.git
+	branch = master
