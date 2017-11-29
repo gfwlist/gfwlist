@@ -10,6 +10,9 @@
 :tulip:***For the tiny version of GFWList, please visit [tinylist project homepage](https://github.com/gfwlist/tinylist).***
 ******
 
+:hammer:***For source code stemmed from premier GFWList which is now being used for maintenance, please visit [apollyon project](https://github.com/gfwlist/apollyon).***
+******
+
 # gfwlist
 ## The OFFICIAL gfwlist here!
 
