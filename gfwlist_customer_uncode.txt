@@ -21,6 +21,11 @@
 ||163.net
 ||126.com
 ||126.net
+.baidu.com
+.163.com
+.126.com
+.163.net
+.126.net
 
 !---------403/451/520 & URL Redirects---------
 ||2dbook.com
