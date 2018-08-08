@@ -872,6 +872,15 @@ voa-11.akacast.akamaistream.net
 .chinaeweekly.com
 ||chinaeweekly.com
 
+!--------------------DD-------------------------
+.drmingxia.org
+|http://drmingxia.org
+||dropbooks.tv
+||dropbox.com
+||api.dropboxapi.com
+||notify.dropboxapi.com
+||dropboxusercontent.com
+
 !--------------------FF-------------------------
 !--Fastly
 en.favotter.net
