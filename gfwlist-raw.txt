@@ -182,7 +182,7 @@ www.aolnews.com
 .changeip.org
 
 !!---CloudFront---
-.cloudfront.net
+*.cloudfront.net
 
 !!---DtDNS---
 .dtdns.net
