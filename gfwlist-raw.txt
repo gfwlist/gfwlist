@@ -130,6 +130,7 @@ amazon.com/Prisoner-State-Secret-Journal-Premier
 s3-ap-northeast-1.amazonaws.com
 .ssl-images-amazon.com
 .awsstatic.com
+||awsstatic.com
 
 !!---AOL---
 ||aolchannels.aol.com
