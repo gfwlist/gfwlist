@@ -716,6 +716,10 @@ wsgzao.github.io
 .imkev.com
 ||imkev.com
 
+!--------------------LL-------------------------
+.letscorp.net
+||letscorp.net
+
 !--------------------NN-------------------------
 ||nobel.se
 !--.nobelprize.org
@@ -921,60 +925,7 @@ q=triangle
 q%3DTriangle
 ultrareach
 ultrasurf
+/announce
 !#############Supplemental List End#############
 
-!################Whitelist Start################
-@@||aliyun.com
-@@||baidu.com
-!--@@||bing.com
-@@||chinaso.com
-@@||chinaz.com
-@@|http://nrch.culture.tw/
-!--ISP cache works sometimes, verified at drpeng + gehua.
-@@||dl.google.com
-@@||kh.google.com
-@@||khm.google.com
-@@||khm0.google.com
-@@||khm1.google.com
-@@||khm2.google.com
-@@||khm3.google.com
-@@||khmdb.google.com
-@@||tools.google.com
-@@||clientservices.googleapis.com
-@@||fonts.googleapis.com
-@@||khm.googleapis.com
-@@||khm0.googleapis.com
-@@||khm1.googleapis.com
-@@||khm2.googleapis.com
-@@||khm3.googleapis.com
-@@||khmdb.googleapis.com
-@@||storage.googleapis.com
-@@||translate.googleapis.com
-@@||update.googleapis.com
-@@||safebrowsing.googleapis.com
-@@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
-@@||haosou.com
-@@||ip.cn
-@@||jike.com
-@@|http://translate.google.cn
-@@|http://www.google.cn/maps
-@@||http2.golang.org
-@@||gov.cn
-@@||qq.com
-@@||sina.cn
-@@||sina.com.cn
-@@||sogou.com
-@@||so.com
-@@||soso.com
-@@||uluai.com.cn
-@@||weibo.com
-@@||yahoo.cn
-@@||youdao.com
-@@||zhongsou.com
-@@|http://ime.baidu.jp
-!################Whitelist End##################
-!---------------------EOF-----------------------
+
