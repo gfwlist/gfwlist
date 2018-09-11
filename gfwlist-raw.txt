@@ -896,6 +896,9 @@ zh-yue.wikipedia.org
 ||wowporn.com
 ||wowgirls.com
 
+.wenzhao.ca
+||wenzhao.ca
+
 !--------------------XX-------------------------
 .x-berry.com
 ||x-berry.com
