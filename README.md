@@ -24,6 +24,8 @@ We don't dismantle the wall, we just find a hole to bypass then instead. Don't a
 
 TL;DR: This list embraces websites which Chinese authorities and some service providers don't want Chinese to view on the Internet.
 
+File format: base64-encoded Autoproxy rules, i.e. the [ABP filter syntax](https://adblockplus.org/filters).
+
 ---
 ## If you want to report, make sure check our [wiki](https://github.com/gfwlist/gfwlist/wiki/Cautions) first.
 
@@ -31,7 +33,7 @@ TL;DR: This list embraces websites which Chinese authorities and some service pr
 
 WARNING:
 
-* We **WON'T** deal with reports from users of provinces below:
+* We **WILL NOT** deal with reports from users of provinces below:
 
   - Tibet (Tibet Autonomous Region)
   - Shinjang (XinJiang Uyghur Autonomous Region)
@@ -41,19 +43,15 @@ WARNING:
 
 ---
 
-GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+GFWList URL (GitHub): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
-**Notwithstanding Github is competent for distribution, to hedge outages or connection issues we still recommend using any URL below.**
+**Notwithstanding GitHub is competent for distribution, to hedge outages or connection issues we still recommend using any URL below.**
 
 **Official mirror URLs:**
 1. Pagure: https://pagure.io/gfwlist/raw/master/f/gfwlist.txt
-
 2. Repo.or.cz: http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt
-
 3. Bitbucket: https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
-
 4. Gitlab: https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
-
 5. TuxFamily: https://git.tuxfamily.org/gfwlist/gfwlist.git/plain/gfwlist.txt
 
 **Mirrors can alleviate the problem caused by raw file fetch at GitHub which might be a breach of [GitHub ToS](https://github.com/site/terms).**
