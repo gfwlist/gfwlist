@@ -2,7 +2,7 @@ language: perl
 perl:
   - "5.30"
 if:
-  - commit_message !~ /^GFWList Encoded/
+  - type = push AND commit_message !~ /^GFWList Encoded/
 env:
   global:
     - secure: BQjYMr6h+SA3cnIWG/YNxIswf/7EwKED5PxAY81Y5DLFu0FhDCA//zuDv/w3AT/lIoPZhtq0aVSHVVkm85DAYq0aXtntffqTq4TpNWFEBBJrD8oWYDZ/4ov6e6wLDk06qdzfTSsxefb8hwnp2TXDqPlHjoPZPTOoJEwj24JhG3lH04LO7A9hYFtqSth/Z9y8JvGhoMaigvm7WYYYzrCzJLxAXKEjDjBhtlOo8o3AguHb/ZmywgRu9zS9GG09u6vY4dj5Z3n4gPe+I1SmJeferQNe8YJq9+548QRxSyr4gQjz54qTv/QRzLGmTh5qeC7K73O9/CpOlQ38c4DVixPRNxwfumH8Dm6y1dZIFgQwqOAHIO8ZycW23FKQOYMCX0xJMBTRThLhjq0cP5YiNx6ff7obBlqAsdoZG9uZ+dc9hkVMG46HC9Y8hvsbuNIylsOuSovrnBLbZ2gj0+fdijWIV85/IJR4CRtEBci2sOyxxIJkB627sHAxHERyo4PUpoLTk+P4vCtAgdWgNyMSGnqNdrmJ1eyf+JD9NO+9+W2bsVS3TBZ9SO4vtmkcBZnHrgKRxHKJkJVcpty2Q15/UVNjgXK/gcQDdv1ds1+XtkVst+xKeMqbup3G+we0shXvmsTMqKALYB2eMOFVQ3oMLQKRxGK06A1W18f3kRZn//wISnU=
