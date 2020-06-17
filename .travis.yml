@@ -9,7 +9,7 @@ env:
 
 install: skip
 script:
-  - wget https://raw.githubusercontent.com/Gh0u1L5/apollyon/master/checksum/addChecksum.pl
+  - wget https://raw.githubusercontent.com/gfwlist/apollyon/master/addChecksum.pl
   - perl addChecksum.pl plainlist.txt
   - base64 --wrap=64 plainlist.txt > gfwlist.txt
 after_success:
