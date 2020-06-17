@@ -1,0 +1,12 @@
+** NOTICE **
+
+We no longer support requesting GFWList modifications using Github issues.
+If you want to modify the list, please go modify the plainlist.txt and make
+a PR for it. Once your PR got granted, your changes will be automatically
+merged into gfwlist.txt by our CI/CD infrastructure.
+
+** 注意 **
+
+我们不再接受任何通过Github issue提交的GFWList修改请求。如果你想要改动GFWList的话，
+请直接修改plainlist.txt文件并提交一个PR。一旦你的PR得到通过，你的修改就会被我们的
+CI/CD系统自动发布到gfwlist.txt文件中。
