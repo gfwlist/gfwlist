@@ -31,11 +31,15 @@ TL;DR: This list embraces websites which Chinese authorities and some service pr
 
 WARNING:
 
-* We **WON'T** deal with reports from users of provinces below:
+* Due to the peculiar network control, it is **impractical** to deal with reports from users of provinces below:
 
   - Tibet (Tibet Autonomous Region)
   - Shinjang (XinJiang Uyghur Autonomous Region)
   - Qinghai (Qinghai Province)
+  
+  Example: Baidu Wangpan is not allowed to use in XinJiang, but adding it into the list will cause trouble to the people living in the rest of the country.
+  
+  Therefore, any user within these areas is encouraged to either maintain custom rules, or use proxy all the time.
 
 * GFWList doesn't provide prompt update for URLs submitted, normally they will be fully tested before adding into the list.
 
