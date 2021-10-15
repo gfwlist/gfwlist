@@ -56,9 +56,11 @@ GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gf
 
 3. Bitbucket: https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
 
-4. Gitlab: https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
+4. GitLab: https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
 
 5. TuxFamily: https://git.tuxfamily.org/gfwlist/gfwlist.git/plain/gfwlist.txt
+
+6. GitLab (plaintext version): https://gfwlist.gitlab.io/gfwlist/gfwlist_decoded.txt
 
 **Mirrors can alleviate the problem caused by raw file fetch at GitHub which might be a breach of [GitHub ToS](https://github.com/site/terms).**
 
