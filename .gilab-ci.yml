@@ -1,0 +1,14 @@
+image: debian:latest
+pages:
+  stage: deploy
+  script:
+    - cat gfwlist.txt | base64 -d > gfwlist_decoded.txt
+    - mkdir .public
+    - cp -r * .public
+    - mv .public public
+  artifacts:
+    expire_in: 1 day
+    paths:
+      - public
+  only:
+    - master
