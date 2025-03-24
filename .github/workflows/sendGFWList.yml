@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'list.txt'
+  workflow_dispatch:
 
 jobs:
   convert-and-push:
@@ -13,12 +14,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
+          submodules: 'true'
           fetch-depth: '0'
 
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y date file git openssl perl
+          sudo apt-get install -y file git openssl perl
 
       - name: Sanity check.
         run: |
@@ -26,22 +28,11 @@ jobs:
             command -v $cmd >/dev/null 2>&1 || { echo "Error: You must have $cmd command installed!"; exit 1; }
           done
 
-      - name: modified by others, commit to local git repository
-        run: |
-          git diff --quiet HEAD^ HEAD list.txt || echo "modified=true" >> $GITHUB_ENV
-        continue-on-error: true
-
-      - name: exit if no changes
-        if: env.modified != 'true'
-        run: |
-          echo "Info: list.txt not modified."
-          exit 0
-
       - name: update date and checksum
         run: |
           cp apollyon/* ./
           perl addChecksum.pl list.txt || { echo "Error: Failed to update checksum"; exit 1; }
-          if [ "$(file -b list.txt)" != "ASCII text" ]; then
+          if [ "$(file -b list.txt | grep -o "ASCII text")" != "ASCII text" ]; then
             echo "Error: list.txt invalid, please make sure:"
             echo "1. there is no non-ASCII characters;"
             echo "2. configure your text editor to use unix style line break."
@@ -58,3 +49,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: gfwlist edited ${{ env.DATE }}
+          file_pattern: 'gfwlist.txt'
