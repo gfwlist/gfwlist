@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: '0'
 
       - name: Install dependencies
         run: |
@@ -37,6 +39,7 @@ jobs:
 
       - name: update date and checksum
         run: |
+          cp apollyon/* ./
           perl addChecksum.pl list.txt || { echo "Error: Failed to update checksum"; exit 1; }
           if [ "$(file -b list.txt)" != "ASCII text" ]; then
             echo "Error: list.txt invalid, please make sure:"
