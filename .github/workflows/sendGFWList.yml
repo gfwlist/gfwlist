@@ -1,0 +1,54 @@
+name: send GFWList
+
+on:
+  push:
+    paths:
+      - 'list.txt'
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  convert-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          submodules: 'true'
+          fetch-depth: '0'
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y file git openssl perl
+
+      - name: Sanity check.
+        run: |
+          for cmd in date file git openssl perl; do
+            command -v $cmd >/dev/null 2>&1 || { echo "Error: You must have $cmd command installed!"; exit 1; }
+          done
+
+      - name: update date and checksum
+        run: |
+          cp apollyon/* ./
+          perl addChecksum.pl list.txt || { echo "Error: Failed to update checksum"; exit 1; }
+          if [ "$(file -b list.txt | grep -o "ASCII text")" != "ASCII text" ]; then
+            echo "Error: list.txt invalid, please make sure:"
+            echo "1. there is no non-ASCII characters;"
+            echo "2. configure your text editor to use unix style line break."
+            exit 1
+          fi
+          echo "DATE=$(date)" >> $GITHUB_ENV
+
+      - name: convert to gfwlist.txt
+        run: |
+          openssl base64 -in list.txt | tr -d '\r' > gfwlist.txt
+
+      - name: save local changes to git & svn
+        id: auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: gfwlist edited ${{ env.DATE }}
+          file_pattern: 'gfwlist.txt'
