@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: cWxSOzdwl2xdDEHDpEwKYA
+! Checksum: Zh2jjyiqB0khxhj8fbocsw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 23 Mar 2025 16:14:59 +0800
+! Last Modified: Sun, 04 May 2025 10:22:36 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -16,7 +16,6 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/503/520 & URL Redirects---------
-||coincarp.com
 ||blogjav.net
 ||zoominfo.com
 ||ptwxz.com
@@ -214,7 +213,7 @@
 !--We are confused as well
 ||ontrac.com
 @@|http://blog.ontrac.com
-||chat.openai.com
+||openai.com
 ||pandora.com
 .pandora.tv
 ||parkansky.com
@@ -240,7 +239,7 @@
 ||sm-miracle.com
 ||softnology.biz
 ||soylentnews.org
-||open.spotify.com
+||spotify.com
 ||spreadshirt.es
 ||springboardplatform.com
 ||sprite.org
@@ -842,9 +841,6 @@ bloomberg.de
 
 !!--Cloudflare--
 !--||pages.dev
-||1.1.1.1
-||1.0.0.1
-||one.one.one.one
 
 !!---CloudFront---
 ||cloudfront.net
@@ -1235,6 +1231,9 @@ cn.nytstyle.com
 ||steamstatic.com
 !!---Telegram---
 !!!---Domain---
+||tx.me
+||tg.dev
+||telega.one
 ||cdn-telegram.org
 ||comments.app
 ||graph.org
@@ -2779,6 +2778,7 @@ cytode.us
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||disneyplus.com
 ||ddex.io
 ||d.cash
 ||doubiyunbackup.com
@@ -2991,8 +2991,6 @@ drsunacademy.com
 ||dtic.mil
 .dtwang.org
 .duanzhihu.com
-.duckdns.org
-|http://duckdns.org
 .duckduckgo.com
 ||duckduckgo.com
 .duckload.com/download
@@ -3212,6 +3210,7 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||fast.com
 ||factchecklab.org
 ||ft.com
 ||fuchsia.dev
@@ -3285,7 +3284,7 @@ fail.hk
 .fan-qiang.com
 .fangbinxing.com
 ||fangbinxing.com
-fangeming.comffvpn.com
+fangeming.com
 .fangmincn.org
 ||fangmincn.org
 .fanhaodang.com
@@ -3295,20 +3294,31 @@ fangeming.comffvpn.com
 .farwestchina.com
 
 !--Fastly
+en.favotter.net
 !--||rnw.global.ssl.fastly.net
-||global.ssl.fastly.net
-||freetls.fastly.net
+.global.ssl.fastly.net
+.freetls.fastly.net
+nytimes.map.fastly.net
 ||nytimes.map.fastly.net
+||fast.wistia.com
 
 ||fastestvpn.com
 ||fastssh.com
 ||faststone.org
-||faydao.com
+favstar.fm
+||favstar.fm
+faydao.com/weblog
 ||faz.net
+.fc2.com
+.fc2china.com
+.fc2cn.com
 ||fc2cn.com
+fc2blog.net
 |http://uygur.fc2web.com/
-||fdc64.de
-||fdc64.org
+video.fdbox.com
+.fdc64.de
+.fdc64.org
+.fdc89.jp
 ||fourface.nodesnoop.com
 !--feedbooks.mobi
 ||feeder.co
@@ -3324,7 +3334,9 @@ feer.com
 .fengzhenghu.net
 ||fengzhenghu.net
 .fevernet.com
-||ff.im
+|http://ff.im
+fffff.at
+fflick.com
 .ffvpn.com
 fgmtv.net
 .fgmtv.org
@@ -3544,7 +3556,6 @@ fzh999.net
 fzlm.com
 
 !--------------------GG-------------------------
-||gemini.com
 ||getsession.org
 ||gdaily.org
 ||gfwatch.org
@@ -3759,6 +3770,7 @@ good.news
 ||gopetition.com
 .goproxing.net
 ||goreforum.com
+||gotquestions.org
 .gotrusted.com
 ||gotrusted.com
 ||gotw.ca
@@ -4054,6 +4066,7 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||hanime1.me
 ||halktv.com.tr
 ||haiwaikan.com
 ||home.saxo
@@ -4418,6 +4431,7 @@ idemocracy.asia
 ||identi.ca
 ||idiomconnection.com
 |http://www.idlcoyote.com
+||idope.se
 .idouga.com
 .idreamx.com
 forum.idsam.com
@@ -5031,6 +5045,8 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||missav.ws
+||news.mt.co.kr
 ||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
@@ -5358,6 +5374,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||nodeloc.com
 ||netlify.app
 ||nightswatch.top
 ||nbyy.tv
@@ -6228,12 +6245,14 @@ rukor.org
 .ruten.com.tw
 ||ruten.com.tw
 ||rutracker.net
+||rutracker.org
 rutube.ru
 .ruyiseek.com
 .rxhj.net
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||simplex.chat
 ||soundon.fm
 ||ssrtool.com
 ||ssrshare.us
@@ -6693,6 +6712,7 @@ tw.streetvoice.com
 ||stumbleupon.com
 stupidvideos.com
 ||substack.com
+||subhd.tv
 .successfn.com
 panamapapers.sueddeutsche.de
 .sugarsync.com
@@ -6746,6 +6766,8 @@ blog.syx86.cn/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||tellapart.com
+||threads.com
 ||tg-me.com
 ||twkan.com
 ||tunein.streamguys1.com
@@ -8109,6 +8131,7 @@ yx51.net
 ||yzzk.com
 
 !--------------------ZZ-------------------------
+||zodgame.xyz
 ||zhongzidi.com
 ||zooqle.com
 ||z-lib.io
