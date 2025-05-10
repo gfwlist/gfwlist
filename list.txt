@@ -841,6 +841,8 @@ bloomberg.de
 
 !!--Cloudflare--
 !--||pages.dev
+||workers.dev
+||one.one.one.one
 
 !!---CloudFront---
 ||cloudfront.net
@@ -928,6 +930,7 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
+||play.google
 ||doc.new
 ||form.new
 ||forms.new
@@ -951,7 +954,6 @@ bloomberg.de
 ||adsense.com
 ||advertisercommunity.com
 ||agoogleaday.com
-||ai.google
 ||ampproject.org
 @@|https://www.ampproject.org
 @@|https://cdn.ampproject.org
@@ -1516,6 +1518,8 @@ wikinews.org
 ||duckduckgo-owned-server.yahoo.net
 
 !------------------Numerics---------------------
+||i.111666.best
+||1lib.sk
 ||2047.one
 ||69shuba.cx
 ||2049bbs.xyz
@@ -2778,6 +2782,7 @@ cytode.us
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||docker.io
 ||disneyplus.com
 ||ddex.io
 ||d.cash
@@ -5725,6 +5730,7 @@ bbs.ozchinese.com
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||puredns.org
 ||polymarket.com
 ||pandafan.pub
 ||proxz.com
@@ -6089,6 +6095,7 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
+||rule34video.com
 ||r10s.jp
 ||rakuten.co.jp
 ||r0.ru
@@ -6766,6 +6773,7 @@ blog.syx86.cn/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||rtm.tnt-ea.com
 ||tellapart.com
 ||threads.com
 ||tg-me.com
@@ -7856,7 +7864,6 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||workatruna.com
 ||workerdemo.org.hk
 ||workerempowerment.org
-||workers.dev
 ||workersthebig.net
 .worldcat.org
 worldjournal.com
@@ -8131,6 +8138,11 @@ yx51.net
 ||yzzk.com
 
 !--------------------ZZ-------------------------
+||z-library.sk
+||z-lib.fm
+||z-lib.gd
+||z-lib.gl
+||z-lib.fo
 ||zodgame.xyz
 ||zhongzidi.com
 ||zooqle.com
