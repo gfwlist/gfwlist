@@ -3561,6 +3561,7 @@ fzh999.net
 fzlm.com
 
 !--------------------GG-------------------------
+|http://gmp4.com
 ||getsession.org
 ||gdaily.org
 ||gfwatch.org
@@ -6052,6 +6053,7 @@ pythonhackers.com/p
 ss.pythonic.life
 
 !--------------------QQ-------------------------
+|http://qmp4.com
 ||qianmo.tw
 .qanote.com
 ||qanote.com
