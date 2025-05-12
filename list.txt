@@ -930,6 +930,8 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
+||ai.google
+||notebooklm.google
 ||play.google
 ||doc.new
 ||form.new
@@ -1258,6 +1260,7 @@ cn.nytstyle.com
 ||tiktokv.com
 ||tiktokv.us
 ||tiktokcdn-us.com
+||tiktokcdn.com
 
 !!---Twitch---
 ||jtvnw.net
@@ -5380,6 +5383,10 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||nikke.hotcool.tw
+||nikke-kr.com
+||nikke-jp.com
+||nikke-en.com
 ||nodeloc.com
 ||netlify.app
 ||nightswatch.top
