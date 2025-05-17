@@ -1261,6 +1261,7 @@ cn.nytstyle.com
 ||tiktokv.us
 ||tiktokcdn-us.com
 ||tiktokcdn.com
+||tiktokcdn-eu.com
 
 !!---Twitch---
 ||jtvnw.net
@@ -3305,7 +3306,7 @@ fangeming.com
 en.favotter.net
 !--||rnw.global.ssl.fastly.net
 .global.ssl.fastly.net
-.freetls.fastly.net
+||freetls.fastly.net
 nytimes.map.fastly.net
 ||nytimes.map.fastly.net
 ||fast.wistia.com
@@ -4866,6 +4867,8 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||ldplayer.tw
+||ldplayer.net
 ||ltn.com.tw
 ||litenews.hk
 ||www.lorenzetti.com.br
@@ -5383,6 +5386,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||bbs.naixi.net
 ||nikke.hotcool.tw
 ||nikke-kr.com
 ||nikke-jp.com
@@ -6268,6 +6272,7 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||sagernet.org
 ||simplex.chat
 ||soundon.fm
 ||ssrtool.com
