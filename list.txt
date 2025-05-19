@@ -30,6 +30,9 @@
 ||afreecatv.com
 ||agnesb.fr
 ||airitilibrary.com
+||abematv.akamaized.net
+||linear-abematv.akamaized.net
+||vod-abematv.akamaized.net
 ||akiba-web.com
 ||altrec.com
 ||angela-merkel.de
@@ -39,6 +42,7 @@
 ||apartments.com
 ||arena.taipei
 ||asianspiss.com
+||assets.bwbx.io
 ||assimp.org
 ||athenaeizou.com
 ||azubu.tv
@@ -156,6 +160,8 @@
 ||lih.kg
 ||longtoes.com
 ||lovetvshow.com
+||lpsg.com
+||lrfz.com
 |http://www.m-sport.co.uk
 ||macgamestore.com
 ||madonna-av.com
@@ -175,6 +181,8 @@
 ||moodyz.com
 ||moonbingo.com
 ||mos.ru
+||addons.mozilla.org/*-*/firefox/addon/ublock-origin/*
+||addons.mozilla.org/firefox/downloads/file/*/ublock_origin-*.xpi
 ||msha.gov
 ||www.msn.com
 ||muzu.tv
@@ -221,6 +229,7 @@
 |http://*.pimg.tw/
 ||podcast.co
 ||popai.pro
+||proyectoclubes.com
 ||pure18.com
 ||pytorch.org
 ||qq.co.za
@@ -1762,11 +1771,6 @@ a248.e.akamai.net
 rfalive1.akacast.akamaistream.net
 voa-11.akacast.akamaistream.net
 
-!!--403
-||abematv.akamaized.net
-||linear-abematv.akamaized.net
-||vod-abematv.akamaized.net
-
 |https://fbcdn*.akamaihd.net/
 !--||fbexternal-a.akamaihd.net
 !--||fbstatic-a.akamaihd.net
@@ -2183,9 +2187,6 @@ blogtd.net
 |http://blogtd.org
 ||bloodshed.net
 ||bootstrapcdn.com
-!--403
-||assets.bwbx.io
-
 ||bloomfortune.com
 blueangellive.com
 ||blubrry.com
@@ -5022,9 +5023,6 @@ longmusic.com
 .lotuslight.org.hk
 .lotuslight.org.tw
 hkreporter.loved.hk
-!--403?
-||lpsg.com
-||lrfz.com
 .lrip.org
 ||lrip.org
 .lsd.org.hk
@@ -5068,8 +5066,6 @@ lvhai.org
 ||mirror.xyz
 ||mywife.cc
 ||c.mi.com
-||addons.mozilla.org/*-*/firefox/addon/ublock-origin/*
-||addons.mozilla.org/firefox/downloads/file/*/ublock_origin-*.xpi
 ||missav.com
 ||madou.club
 ||mahjongsoul.com
@@ -6025,8 +6021,6 @@ proxifier.com
 ||proxypy.net
 proxyroad.com
 .proxytunnel.net
-!--403 maybe
-||proyectoclubes.com
 prozz.net
 psblog.name
 ||psblog.name
