@@ -35,6 +35,7 @@
 ||vod-abematv.akamaized.net
 ||akiba-web.com
 ||altrec.com
+||amazonvideo.com
 ||angela-merkel.de
 ||angola.org
 ||anthropic.com
@@ -229,6 +230,7 @@
 |http://*.pimg.tw/
 ||podcast.co
 ||popai.pro
+||primevideo.com
 ||proyectoclubes.com
 ||pure18.com
 ||pytorch.org
