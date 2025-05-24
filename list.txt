@@ -459,6 +459,7 @@
 ||redd.it
 ||redditspace.com
 ||reddit.com
+||reddithelp.com
 .redditlist.com
 |http://redditlist.com
 ||redditmedia.com
@@ -5389,7 +5390,7 @@ mysinablog.com
 ||nikke-kr.com
 ||nikke-jp.com
 ||nikke-en.com
-||nodeloc.com
+||www.nodeloc.com
 ||netlify.app
 ||nightswatch.top
 ||nbyy.tv
