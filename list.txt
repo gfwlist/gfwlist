@@ -942,6 +942,7 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
+||gemini.google
 ||ai.google
 ||notebooklm.google
 ||play.google
