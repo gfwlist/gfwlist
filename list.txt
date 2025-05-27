@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Zh2jjyiqB0khxhj8fbocsw
+! Checksum: qDaUJaBOcXYDTR8qTyGVcg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sun, 04 May 2025 10:22:36 +0800
+! Last Modified: Mon, 26 May 2025 12:04:31 +0000
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -942,10 +942,7 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
-||gemini.google
-||ai.google
-||notebooklm.google
-||play.google
+||google
 ||doc.new
 ||form.new
 ||forms.new
@@ -964,7 +961,6 @@ bloomberg.de
 ||1e100.net
 ||466453.com
 ||abc.xyz
-||about.google
 ||admob.com
 ||adsense.com
 ||advertisercommunity.com
@@ -980,7 +976,6 @@ bloomberg.de
 .appspot.com
 ||appspot.com
 ||autodraw.com
-||blog.google
 ||blogblog.com
 blogspot.com
 /^https?:\/\/[^\/]+blogspot\.(.*)/
@@ -992,29 +987,22 @@ blogspot.com
 ||certificate-transparency.org
 ||chrome.com
 ||chromecast.com
-||chromeenterprise.google
 ||chromeexperiments.com
 ||chromercise.com
 ||chromestatus.com
 ||chromium.org
 ||cloudfunctions.net
-||com.google
 ||crbug.com
 ||creativelab5.com
-||crisisresponse.google
 ||crrev.com
 ||data-vocabulary.org
 ||debug.com
 ||deepmind.com
 ||deja.com
-||design.google
 ||digisfera.com
-||dns.google
 ||docker.com
 ||docs.new
-||domains.google
 ||duck.com
-||environment.google
 ||feedburner.com
 ||firebaseio.com
 ||g.co
@@ -1122,7 +1110,6 @@ blogspot.com
 ||googleweblight.com
 ||googlezip.net
 ||groups.google.cn
-||grow.google
 ||gstatic.com
 !--||gv.com
 ||gvt0.com
@@ -1134,29 +1121,21 @@ blogspot.com
 ||iam.soy
 ||igoogle.com
 ||itasoftware.com
-||lers.google
 ||like.com
 ||madewithcode.com
 ||material.io
-||nic.google
 ||on2.com
-||opensource.google
 ||panoramio.com
-||passwords.google
 ||picasaweb.com
 ||pki.goog
 ||plus.codes
 ||polymer-project.org
-||pride.google
 ||questvisual.com
 ||admin.recaptcha.net
 ||api.recaptcha.net
 ||api-secure.recaptcha.net
 ||api-verify.recaptcha.net
 ||redhotlabs.com
-||registry.google
-||research.google
-||safety.google
 ||savethedate.foo
 ||schema.org
 ||shattered.io
@@ -1164,8 +1143,6 @@ blogspot.com
 ||sheets.new
 ||slides.new
 ||snapseed.com
-||stories.google
-||sustainability.google
 ||synergyse.com
 ||teachparentstech.org
 ||tensorflow.org
@@ -1173,7 +1150,6 @@ blogspot.com
 ||thinkwithgoogle.com
 ||tiltbrush.com
 ||translate.goog
-||tv.google
 ||ua5v.com
 ||urchin.com
 ||usercontent.goog
