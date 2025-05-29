@@ -638,6 +638,10 @@ china-mmm.sa.com
 ||payments-jp.amazon.com
 ||amazon.co.jp
 ||s3-ap-*.amazonaws.com
+||s3-eu-central-1.amazonaws.com
+||s3.us-east-1.amazonaws.com
+||s3-ap-northeast-2.amazonaws.com
+||s3-ap-northeast-1.amazonaws.com
 
 !!---AOL---
 ||aolchannels.aol.com
@@ -942,7 +946,7 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
-||google
+||*.google
 ||doc.new
 ||form.new
 ||forms.new
