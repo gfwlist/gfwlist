@@ -1984,6 +1984,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||blackmagicdesign.com
 ||bearteach.com
 ||btbtt.me
 ||btbtt.co
