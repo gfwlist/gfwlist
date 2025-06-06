@@ -1518,6 +1518,7 @@ wikinews.org
 ||duckduckgo-owned-server.yahoo.net
 
 !------------------Numerics---------------------
+||91dasai.com
 ||i.111666.best
 ||1lib.sk
 ||2047.one
