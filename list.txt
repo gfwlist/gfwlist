@@ -2310,6 +2310,7 @@ bwsj.hk
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||cpu-monkey.com
 ||coffeemanga.to
 ||ctinews.com
 ||cachefly.com
@@ -4378,7 +4379,6 @@ hutong9.net
 huyandex.com
 .hwadzan.tw
 ||hwayue.org.tw
-||hwinfo.com
 ||hxwk.org
 hxwq.org
 ||hyperrate.com
