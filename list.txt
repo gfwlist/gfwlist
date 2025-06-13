@@ -1417,31 +1417,12 @@ zh.uncyclopedia.wikia.com
 !------6------
 ||zh.wikiquote.org
 !------7------
-wikinews.org
+||wikinews.org
 !------8------
 ||wikivoyage.org
-!--|http://zh.wikivoyage.org
 !------9------
 ||wiktionary.org
-!-----10------
-!--||wikimediafoundation.org
 !----Main-----
-!!--||en.wikipedia.org
-!--||wikipedia.org
-!--||ja.wikipedia.org
-!!--zh.wikipedia.org
-!--||zh.wikipedia.org
-!!--||ug.m.wikipedia.org
-!!--zh.m.wikipedia.org
-!!--|https://zh.m.wikipedia.org
-!--@@||m.wikipedia.org
-!!--|https://zh.wikipedia.org
-!--Other Languages of Wikipedia
-!!--wuu.wikipedia.org
-!!--|https://wuu.wikipedia.org
-!!--zh-yue.wikipedia.org
-!!--|https://zh-yue.wikipedia.org
-!!! Starting with !! are previous rules replaced by:
 ||wikipedia.org
 ||wmfusercontent.org
 
