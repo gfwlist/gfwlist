@@ -1673,6 +1673,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||abplive.com
 ||cdn.arstechnica.net
 ||aomedia.org
 ||aljazeera.com
@@ -3213,6 +3214,7 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||financialexpress.com
 ||fast.com
 ||factchecklab.org
 ||ft.com
@@ -4070,6 +4072,7 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||hindustantimes.com
 ||hanime1.me
 ||halktv.com.tr
 ||haiwaikan.com
@@ -4387,6 +4390,8 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||india.com
+||indiatoday.in
 ||invidio.us
 ||improd.works
 ||illawarramercury.com.au
@@ -5375,6 +5380,8 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||newindianexpress.com
+||news18.com
 ||bbs.naixi.net
 ||nikke.hotcool.tw
 ||nikke-kr.com
@@ -6259,6 +6266,7 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||standard.co.uk
 ||sagernet.org
 ||simplex.chat
 ||soundon.fm
@@ -6774,6 +6782,7 @@ blog.syx86.cn/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||thehansindia.com
 ||rtm.tnt-ea.com
 ||tellapart.com
 ||threads.com
