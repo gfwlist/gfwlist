@@ -3270,6 +3270,7 @@ funp.com
 ||fxcm-chinese.com
 
 !--------------------GG-------------------------
+||gitlab.net
 |http://gmp4.com
 ||getsession.org
 ||gdaily.org
