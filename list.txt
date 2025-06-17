@@ -1432,6 +1432,7 @@ zh.uncyclopedia.wikia.com
 ||yahoo.com
 
 !------------------Numerics---------------------
+||ipfs.4everland.io
 ||91dasai.com
 ||i.111666.best
 ||1lib.sk
@@ -2565,6 +2566,7 @@ cyberghostvpn.com
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||dweb.link
 ||docker.io
 ||disneyplus.com
 ||ddex.io
@@ -4889,6 +4891,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||nftstorage.link
 ||newindianexpress.com
 ||news18.com
 ||bbs.naixi.net
@@ -5679,6 +5682,7 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||storry.tv
 ||standard.co.uk
 ||sagernet.org
 ||simplex.chat
@@ -6981,6 +6985,7 @@ vraiesagesse.net
 ||vuku.cc
 
 !--------------------WW-------------------------
+|https://w3s.link/ipfs
 ||work2icu.org
 ||wikiless.funami.tech
 lists.w3.org/archives/public
