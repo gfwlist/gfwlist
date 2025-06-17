@@ -815,9 +815,6 @@ bloomberg.de
 ||workers.dev
 ||one.one.one.one
 
-!!---CloudFront---
-||cloudfront.net
-
 !!---DtDNS---
 !###https://www.dtdns.com/dtsite/faq
 .3d-game.com
