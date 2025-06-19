@@ -2961,6 +2961,7 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||forbes.com
 ||financialexpress.com
 ||fast.com
 ||factchecklab.org
