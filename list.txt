@@ -1571,6 +1571,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||amuletmc.com
 ||abplive.com
 ||cdn.arstechnica.net
 ||aomedia.org
