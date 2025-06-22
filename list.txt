@@ -4025,6 +4025,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||arvanstorage.ir
 ||irangov.ir
 ||india.com
 ||indiatoday.in
