@@ -4025,6 +4025,9 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||president.ir
+||gov.ir
+||irna.ir
 ||arvanstorage.ir
 ||irangov.ir
 ||india.com
