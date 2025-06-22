@@ -896,7 +896,8 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
-||*.google
+||gle
+||google
 ||doc.new
 ||form.new
 ||forms.new
