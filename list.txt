@@ -2556,6 +2556,7 @@ cyberghostvpn.com
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||doom9.org
 ||dweb.link
 ||docker.io
 ||disneyplus.com
