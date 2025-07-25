@@ -7270,6 +7270,7 @@ xys.org
 xysblogs.org
 
 !--------------------YY-------------------------
+||yangzhi.org
 ||storage.yandex.net
 ||y2mate.com
 ||yadi.sk
