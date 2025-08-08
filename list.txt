@@ -814,6 +814,7 @@ bloomberg.de
 !--||pages.dev
 ||workers.dev
 ||one.one.one.one
+||cloudflare-dns.com
 
 !!---DtDNS---
 !###https://www.dtdns.com/dtsite/faq
