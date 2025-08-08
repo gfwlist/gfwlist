@@ -6714,6 +6714,7 @@ twurl.nl
 ||typora.io
 
 !--------------------UU-------------------------
+||upbit.com
 ||demo.unlock-music.dev
 .u9un.com
 ||u9un.com
