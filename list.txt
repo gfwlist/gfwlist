@@ -4015,6 +4015,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||mainnet.infura.io
 ||president.ir
 ||gov.ir
 ||irna.ir
@@ -4437,6 +4438,7 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||luckymobile.ca
 ||ludepress.com
 ||lingualeo.com
 ||ldplayer.tw
