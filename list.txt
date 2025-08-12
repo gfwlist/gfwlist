@@ -1857,6 +1857,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||binance.org
 ||bitget.com
 ||blackmagicdesign.com
 ||bearteach.com
@@ -4015,7 +4016,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
-||mainnet.infura.io
+||infura.io
 ||president.ir
 ||gov.ir
 ||irna.ir
