@@ -1857,6 +1857,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||betterhash.net
 ||binance.org
 ||bitget.com
 ||blackmagicdesign.com
