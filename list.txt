@@ -4016,6 +4016,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||itch.io
 ||infura.io
 ||president.ir
 ||gov.ir
