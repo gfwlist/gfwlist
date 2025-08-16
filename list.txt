@@ -5211,6 +5211,7 @@ oyghan.com/wps
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||pewresearch.org
 ||privacyguides.org
 ||pancakeswap.finance
 ||img.picgo.net
