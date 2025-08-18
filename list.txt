@@ -4896,6 +4896,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||naver.com
 ||maven.neoforged.net
 ||nftstorage.link
 ||newindianexpress.com
