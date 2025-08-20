@@ -7508,7 +7508,6 @@ writer.zoho.com
 !--@@||khm2.googleapis.com
 !--@@||khm3.googleapis.com
 !--@@||khmdb.googleapis.com
-@@||storage.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||connectivitycheck.gstatic.com
