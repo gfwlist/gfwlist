@@ -4021,6 +4021,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||itiger.com
 ||itch.io
 ||infura.io
 ||president.ir
