@@ -2158,6 +2158,7 @@ busytrade.com
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||covenantswatch.org.tw
 ||cpu-monkey.com
 ||coffeemanga.to
 ||ctinews.com
