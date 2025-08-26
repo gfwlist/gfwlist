@@ -1226,6 +1226,7 @@ cn.nytstyle.com
 ||x.com
 
 !!---Taiwan---
+||moj.gov.tw
 ||gov.taipei
 .gov.tw
 |https://aiss.anws.gov.tw
