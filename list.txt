@@ -2960,6 +2960,7 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||feedly.com
 ||fuckccp.xyz
 ||fuckccp.com
 ||furrybar.com
