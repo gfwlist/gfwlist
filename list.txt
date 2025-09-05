@@ -1858,6 +1858,8 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||bt4gprx.com
+||bt4g.org
 ||betterhash.net
 ||binance.org
 ||bitget.com
@@ -6165,6 +6167,7 @@ blog.syx86.com/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||tanks.gg
 ||thehansindia.com
 ||rtm.tnt-ea.com
 ||tellapart.com
