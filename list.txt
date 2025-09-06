@@ -4028,6 +4028,8 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||ipify.org
+@@||*.ipify.org
 ||itiger.com
 ||itch.io
 ||infura.io
