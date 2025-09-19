@@ -45,15 +45,10 @@ GFWList URL（Github）：https://raw.githubusercontent.com/gfwlist/gfwlist/mast
 **尽管 Github 有能力进行分发，但为了避免中断或连接问题，我们仍然建议使用以下任何 URL。**
 
 **官方镜像 URL：**
-1. Pagure：https://pagure.io/gfwlist/raw/master/f/gfwlist.txt
 
-2. Repo.or.cz：http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt
+1. Repo.or.cz：http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt
 
-3. Bitbucket：https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
-
-4. Gitlab：https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
-
-5. TuxFamily： https://git.tuxfamily.org/gfwlist/gfwlist.git/plain/gfwlist.txt
+2. Bitbucket：https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
 
 **镜像可以缓解 GitHub 上原始文件获取导致的问题，这可能违反 [GitHub ToS](https://github.com/site/terms)。**
 

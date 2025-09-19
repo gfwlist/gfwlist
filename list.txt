@@ -3273,6 +3273,8 @@ funp.com
 ||fxcm-chinese.com
 
 !--------------------GG-------------------------
+||garudalinux.org
+||gitlab.com
 ||gitlab.net
 |http://gmp4.com
 ||getsession.org
@@ -4910,6 +4912,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||nirsoft.net
 ||naver.com
 ||maven.neoforged.net
 ||nftstorage.link
@@ -6859,6 +6862,7 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------VV-------------------------
+||vpsxb.net
 ||vilanet.me
 ||vewas.net
 ||v2.help
