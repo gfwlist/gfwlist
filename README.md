@@ -54,4 +54,4 @@ GFWList URL（Github）：https://raw.githubusercontent.com/gfwlist/gfwlist/mast
 
 ## Stargazers
 
-[![随时间推移的 Stargazers](https://starchart.cc/gfwlist/gfwlist.svg)](https://starchart.cc/gfwlist/gfwlist)
+[![Stargazers over time](https://starchart.cc/gfwlist/gfwlist.svg?variant=adaptive)](https://starchart.cc/gfwlist/gfwlist)
