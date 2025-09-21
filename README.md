@@ -50,6 +50,8 @@ GFWList URL（Github）：https://raw.githubusercontent.com/gfwlist/gfwlist/mast
 
 2. Bitbucket：https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
 
+3. GitLab：https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
+
 **镜像可以缓解 GitHub 上原始文件获取导致的问题，这可能违反 [GitHub ToS](https://github.com/site/terms)。**
 
 ## Stargazers

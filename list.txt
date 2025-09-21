@@ -3274,7 +3274,7 @@ funp.com
 
 !--------------------GG-------------------------
 ||garudalinux.org
-||gitlab.com
+||about.gitlab.com
 ||gitlab.net
 |http://gmp4.com
 ||getsession.org
