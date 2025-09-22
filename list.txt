@@ -6761,7 +6761,6 @@ twurl.nl
 .srcf.ucam.org/salon/
 |http://china.ucanews.com/
 |http://hum*.uchicago.edu/faculty/ywang/history
-||uderzo.it
 .udn.com
 ||udn.com
 ||udn.com.tw
