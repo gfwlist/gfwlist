@@ -5229,6 +5229,7 @@ oyghan.com/wps
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||api.palworldgame.com
 ||pewresearch.org
 ||privacyguides.org
 ||pancakeswap.finance
