@@ -2161,6 +2161,7 @@ busytrade.com
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||ctinets.com
 ||covenantswatch.org.tw
 ||cpu-monkey.com
 ||coffeemanga.to
@@ -4030,6 +4031,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||interseclab.org
 ||ipify.org
 @@||*.ipify.org
 ||itiger.com
