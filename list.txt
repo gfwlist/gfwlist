@@ -1435,6 +1435,7 @@ zh.uncyclopedia.wikia.com
 ||yahoo.com
 
 !------------------Numerics---------------------
+||996.icu
 ||ipfs.4everland.io
 ||91dasai.com
 ||i.111666.best
