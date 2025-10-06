@@ -6868,6 +6868,7 @@ uygur.org
 |http://uymaarip.com/
 
 !--------------------VV-------------------------
+||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
 ||vewas.net
