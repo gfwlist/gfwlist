@@ -2965,6 +2965,8 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||freegpt.tech
+||freegpt.es
 ||feedly.com
 ||fuckccp.xyz
 ||fuckccp.com
