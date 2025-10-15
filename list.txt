@@ -1575,6 +1575,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||asianfanfics.com
 ||amuletmc.com
 ||abplive.com
 ||cdn.arstechnica.net
@@ -6182,6 +6183,7 @@ blog.syx86.com/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||trustwallet.com
 ||tap.io
 ||taptap.io
 ||talkatone.com
@@ -7426,6 +7428,7 @@ yx51.net
 ||yzzk.com
 
 !--------------------ZZ-------------------------
+||z-library.ec
 ||z-library.sk
 ||z-lib.fm
 ||z-lib.gd
