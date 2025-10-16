@@ -324,6 +324,7 @@
 69.65.19.160
 
 !----------------------IDN----------------------
+||xn--u2u927b.com
 ||xn--11xs86f.icu
 ||xn--4gq171p.com
 ||xn--czq75pvv1aj5c.org
@@ -7032,6 +7033,7 @@ vraiesagesse.net
 ||vuku.cc
 
 !--------------------WW-------------------------
+||websdr.org
 ||wikipedia.com
 ||wxw.moe
 ||wxw.cat
