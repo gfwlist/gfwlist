@@ -26,7 +26,7 @@ Support languages:
 
 ## 如果您想要求匿名，您可以直接向我们发送报告
 
-### 请将您的报告发送至[gfwlistreport@proton.me](mailto:gfwlistreport@proton.me) （发送给bocchi810） 或者 [gfw@dyi.ng](mailto:gfw@dyi.ng) （发送给cicku）  
+### 请将您的报告发送至 [gfwlistreport@proton.me](mailto:gfwlistreport@proton.me) （发送给bocchi810） 或者 [gfw@dyi.ng](mailto:gfw@dyi.ng) （发送给cicku）  
 
 ### 为了保护您的隐私，请不要将报告邮件发送到非以上两个邮箱的其他地址（包括维护者主页的个人邮箱）
 
