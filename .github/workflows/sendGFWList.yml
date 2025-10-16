@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
         with:
           submodules: 'true'
           fetch-depth: '0'
@@ -48,7 +48,7 @@ jobs:
 
       - name: save local changes to git & svn
         id: auto-commit-action
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: gfwlist edited ${{ env.DATE }}
           file_pattern: 'gfwlist.txt'
