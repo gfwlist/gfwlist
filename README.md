@@ -16,7 +16,7 @@ Support languages:
 :tulip:***如需获取 GFWList 的精简版本，请访问 [tinylist 项目主页](https://github.com/gfwlist/tinylist)。***
 ******
 
-:hammer:***如需获取源自目前正在维护的高级 GFWList 的源代码，请访问 [apollyon 项目](https://github.com/gfwlist/apollyon)。***
+:hammer:***如需获取 GFWList 维护工具的源代码，请访问 [apollyon 项目](https://github.com/gfwlist/apollyon)。***
 ******
 
 # gfwlist
@@ -24,15 +24,21 @@ Support languages:
 
 ## 如果您想报告新的网址，请务必先查看我们的 [wiki](https://github.com/gfwlist/gfwlist/wiki/Cautions)。
 
-## 如果您想要求匿名，您可以直接向我们发送报告，请访问 [此个人资料](https://github.com/cicku) 以获取电子邮件地址。
+## 如果您想要求匿名，您可以直接向我们发送报告
+
+### 请将您的报告发送至[gfwlistreport@proton.me](mailto:gfwlistreport@proton.me) （发送给bocchi810） 或者 [gfw@dyi.ng](mailto:gfw@dyi.ng) （发送给cicku）  
+
+### 为了保护您的隐私，请不要将报告邮件发送到非以上两个邮箱的其他地址（包括维护者主页的个人邮箱）
 
 警告：
 
-* 由于特殊的网络控制，处理来自以下省份用户的报告是不切实际的：
+* 由于特殊的网络控制，处理来自以下地区或运营商用户的报告是不切实际的：
 
-- 新疆（新疆维吾尔自治区）
+- 新疆
+- 中国移动
+- 中国广电（蜂窝移动数据）
 
-例如：百度网盘不允许在新疆使用，但将其添加到列表中会给居住在该国其他地区的人们带来麻烦。
+新疆和中国移动都有自己的一份审查名单，中国广电使用中国移动的骨干网，会受到中国移动的审查影响  
 
 因此，鼓励这些地区内的任何用户要么维护自定义规则，要么始终使用代理。
 
