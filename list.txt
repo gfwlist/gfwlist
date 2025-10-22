@@ -2568,6 +2568,7 @@ cyberghostvpn.com
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||dockerstatus.com
 ||deno.dev
 ||docs.deno.com
 ||doom9.org
