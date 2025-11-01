@@ -26,11 +26,12 @@ Support languages:
 
 ## 如果您想要求匿名，您可以直接向我们发送报告
 
-### 请将您的报告发送至 [gfwlistreport@proton.me](mailto:gfwlistreport@proton.me) （发送给bocchi810） 或者 [gfw@dyi.ng](mailto:gfw@dyi.ng) （发送给cicku）  
+### :email:请将您的报告发送至 [gfwlistreport@proton.me](mailto:gfwlistreport@proton.me) （发送给bocchi810） 或者 [gfw@dyi.ng](mailto:gfw@dyi.ng) （发送给cicku）  
 
 ### 为了保护您的隐私，请不要将报告邮件发送到非以上两个邮箱的其他地址（包括维护者主页的个人邮箱）
 
-警告：
+---
+:warning:警告：
 
 * 由于特殊的网络控制，处理来自以下地区或运营商用户的报告是不切实际的：
 
@@ -60,6 +61,6 @@ GFWList URL（Github）：https://raw.githubusercontent.com/gfwlist/gfwlist/mast
 
 **镜像可以缓解 GitHub 上原始文件获取导致的问题，这可能违反 [GitHub ToS](https://github.com/site/terms)。**
 
-## Stargazers
+## Stargazers :star:
 
 [![Stargazers over time](https://starchart.cc/gfwlist/gfwlist.svg?variant=adaptive)](https://starchart.cc/gfwlist/gfwlist)
