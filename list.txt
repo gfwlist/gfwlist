@@ -2968,6 +2968,7 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||flexclip.com
 ||freegpt.tech
 ||freegpt.es
 ||feedly.com
