@@ -2661,10 +2661,6 @@ dcmilitary.com
 .definebabe.com
 
 ||delcamp.net
-delicious.com/GFWbookmark
-.democrats.org
-||democrats.org
-.demosisto.hk
 ||demosisto.hk
 ||desc.se
 ||dessci.com
