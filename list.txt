@@ -1577,6 +1577,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||aoxvpn.com
 ||asianfanfics.com
 ||amuletmc.com
 ||abplive.com
@@ -1862,6 +1863,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||bettergpt.chat
 ||bt4gprx.com
 ||bt4g.org
 ||betterhash.net
@@ -2164,6 +2166,10 @@ busytrade.com
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||cchostvps.xyz
+||canva.com
+||chatpdf.com
+||chat.com
 ||ctinets.com
 ||covenantswatch.org.tw
 ||cpu-monkey.com
@@ -2568,6 +2574,7 @@ cyberghostvpn.com
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||darmau.co
 ||dockerstatus.com
 ||deno.dev
 ||docs.deno.com
@@ -2964,6 +2971,9 @@ eyevio.jp
 .ezpeer.com
 
 !--------------------FF-------------------------
+||hyperbeam.com
+||flowgpt.com
+||forefront.ai
 ||flexclip.com
 ||freegpt.tech
 ||freegpt.es
@@ -3759,6 +3769,7 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||hicairo.com
 ||herominers.com
 ||hinet.net
 ||hindustantimes.com
@@ -4294,7 +4305,6 @@ jeanyim.com
 .jiangweiping.com
 ||jiangweiping.com
 ||jiaoyou8.com
-||jichangtj.com
 .jiehua.cz
 ||hk.jiepang.com
 ||tw.jiepang.com
@@ -4462,6 +4472,8 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||lmarena.ai
+||lexica.art
 ||luckymobile.ca
 ||ludepress.com
 ||lingualeo.com
@@ -5127,6 +5139,7 @@ nylonstockingsonline.com
 .nzchinese.com
 
 !--------------------OO-------------------------
+||files.oaiusercontent.com
 ||octocaptcha.com
 ||oojj.de
 ||onevps.com
@@ -5566,6 +5579,7 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
+||rentry.co
 ||radmin-vpn.com
 ||rule34video.com
 ||r10s.jp
@@ -5718,6 +5732,8 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||sora.com
+||lt.sntp.uk
 ||solscan.io
 ||sina.com.hk
 ||swapspace.co
@@ -6183,6 +6199,7 @@ blog.syx86.com/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||terobox.com
 ||temu.com
 ||trustwallet.com
 ||tap.io
