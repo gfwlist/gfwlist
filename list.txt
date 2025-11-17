@@ -1577,6 +1577,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||adguard-vpn.com
 ||aoxvpn.com
 ||asianfanfics.com
 ||amuletmc.com
@@ -3769,6 +3770,7 @@ guruonline.hk
 .gyatsostudio.com
 
 !--------------------HH-------------------------
+||hbomax.com
 ||hicairo.com
 ||herominers.com
 ||hinet.net
