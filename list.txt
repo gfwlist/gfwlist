@@ -4643,6 +4643,7 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||mjj.rip
 ||mcusercontent.com
 ||metamask.io
 ||missav.ws
@@ -5580,6 +5581,7 @@ nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 !--------------------RR-------------------------
+||rustdesk.com
 ||rentry.co
 ||radmin-vpn.com
 ||rule34video.com
