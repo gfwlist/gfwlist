@@ -4476,6 +4476,7 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||library-access.sk
 ||linux.do
 ||lmarena.ai
 ||lexica.art
@@ -4647,6 +4648,7 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||mij.rip
 ||mji.rip
 ||mjj.rip
 ||mcusercontent.com
