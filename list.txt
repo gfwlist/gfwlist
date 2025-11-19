@@ -812,6 +812,7 @@ bloomberg.de
 .zzux.com
 
 !!--Cloudflare--
+||cloudflarestatus.com
 !--||pages.dev
 ||workers.dev
 ||one.one.one.one
