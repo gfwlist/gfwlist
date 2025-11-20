@@ -3291,6 +3291,7 @@ funp.com
 ||fxcm-chinese.com
 
 !--------------------GG-------------------------
+||greatfirevpn.com
 ||garudalinux.org
 ||about.gitlab.com
 ||gitlab.net
@@ -7061,6 +7062,7 @@ vraiesagesse.net
 ||vuku.cc
 
 !--------------------WW-------------------------
+||wikiunblocked.org
 ||websdr.org
 ||wikipedia.com
 ||wxw.moe
