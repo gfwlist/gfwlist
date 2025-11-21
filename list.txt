@@ -4670,8 +4670,6 @@ lvhai.org
 ||madou.club
 ||mahjongsoul.com
 ||mangabz.com
-http://*.m-team.cc
-!--m-team.cc/forum
 .macrovpn.com
 ||mad-ar.ch
 ||madrau.com
