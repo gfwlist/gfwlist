@@ -3357,7 +3357,7 @@ gdzf.org
 ||geek-art.net
 geekerhome.com/2010/03/xixiang-project-cross-gfw
 .gekikame.com
-|http://gekikame.com
+||gekikame.com
 .gelbooru.com
 |http://gelbooru.com
 ||generated.photos
@@ -4938,6 +4938,7 @@ mysinablog.com
 .mytizi.com
 
 !--------------------NN-------------------------
+||namu.wiki
 ||nirsoft.net
 ||naver.com
 ||maven.neoforged.net
@@ -5257,6 +5258,7 @@ oyghan.com/wps
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||picsart.com
 ||images.prismic.io
 ||api.palworldgame.com
 ||pewresearch.org
