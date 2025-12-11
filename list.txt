@@ -5259,6 +5259,7 @@ oyghan.com/wps
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||podwise.ai
 ||picsart.com
 ||images.prismic.io
 ||api.palworldgame.com
