@@ -1,69 +1,66 @@
-|[Annoucements & Discussions][chat-room]|  
-|:---:|  
-| [![chat-metadata]][chat-room]|  
+|[公告和讨论][chat-room]|
+|:---:|
+| [![chat-metadata]][chat-room]|
+| [![telegram-logo]][telegram]
 
-[chat-metadata]: https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square "Join the chat"
+[telegram]: https://t.me/gfwlistchat
+[telegram-logo]: https://img.shields.io/badge/Join-Telegram-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDI0YzYuNjI3IDAgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTJaIiBmaWxsPSJ1cmwoI2EpIi8+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik01LjQyNSAxMS44NzFhNzk2LjQxNCA3OTYuNDE0IDAgMCAxIDYuOTk0LTMuMDE4YzMuMzI4LTEuMzg4IDQuMDI3LTEuNjI4IDQuNDc3LTEuNjM4LjEgMCAuMzIuMDIuNDcuMTQuMTIuMS4xNS4yMy4xNy4zMy4wMi4xLjA0LjMxLjAyLjQ3LS4xOCAxLjg5OC0uOTYgNi41MDQtMS4zNiA4LjYyMi0uMTcuOS0uNSAxLjE5OS0uODE5IDEuMjI5LS43LjA2LTEuMjI5LS40Ni0xLjg5OC0uOS0xLjA2LS42ODktMS42NDktMS4xMTktMi42NzgtMS43OTgtMS4xOS0uNzgtLjQyLTEuMjA5LjI2LTEuOTA4LjE4LS4xOCAzLjI0Ny0yLjk3OCAzLjMwNy0zLjIyOC4wMS0uMDMuMDEtLjE1LS4wNi0uMjEtLjA3LS4wNi0uMTctLjA0LS4yNS0uMDItLjExLjAyLTEuNzg4IDEuMTQtNS4wNTYgMy4zNDgtLjQ4LjMzLS45MDkuNDktMS4yOTkuNDgtLjQzLS4wMS0xLjI0OC0uMjQtMS44NjgtLjQ0LS43NS0uMjQtMS4zNDktLjM3LTEuMjk5LS43OS4wMy0uMjIuMzMtLjQ0Ljg5LS42NjlaIiBmaWxsPSIjZmZmIi8+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJhIiB4MT0iMTEuOTkiIHkxPSIwIiB4Mj0iMTEuOTkiIHkyPSIyMy44MSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiMyQUFCRUUiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMyMjlFRDkiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48L3N2Zz4K "加入Telegram"
+[chat-metadata]: https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square "加入Gitter"
 [chat-room]: https://gitter.im/gfwlist/gfwlist?utm_source=share-link&utm_medium=link&utm_campaign=share-link "GFWList@Gitter"
-
 ---
 Support languages:
 [简体中文](README.md)
 [English](README-EN.md)  
 ---
 
-:tulip:***For the tiny version of GFWList, please visit [tinylist project homepage](https://github.com/gfwlist/tinylist).***
+:tulip: ***For the simplified version of the GFWList, please visit the [tinylist project homepage](https://github.com/gfwlist/tinylist).***
+
 ******
 
-:hammer:***For source code stemmed from premier GFWList which is now being used for maintenance, please visit [apollyon project](https://github.com/gfwlist/apollyon).***
+:hammer: ***For the source code of the GFWList maintenance tool, please visit the [apollyon project](https://github.com/gfwlist/apollyon).***
+
 ******
 
 # gfwlist
-## The OFFICIAL gfwlist here!
+## The official GFWList is here!
 
-Everyone knows that netizens in Mainland China are under oppression. There is a government-run firewall that blocks and interferes with websites containing sensitive or unwanted information. Meanwhile there’s an extensive network of self-censors in all domestic Internet companies who delete contents which might incur the wrath of the people behind the rigorous censorship regime, while there are also lots of websites refuse to crouch. Hence they are often blocked.
+## If you want to report a new URL, please make sure to check our [wiki](https://github.com/gfwlist/gfwlist/wiki/Cautions) first.
 
-There are other cases for example many streaming services or restricted content providers have blocked IPs from China. What a pity!
+## If you wish to remain anonymous, you can directly send us a report.
 
-We don't dismantle the wall, we just find a hole to bypass then instead. Don't ask us how to bypass, we don't know. And don't ask us what a wall is, it's not a continuous vertical brick or stone structure that encloses or divides an area of land.
+### :email: Please send your report to [gfwlistreport@proton.me](mailto:gfwlistreport@proton.me) (send to bocchi810) or [gfw@dyi.ng](mailto:gfw@dyi.ng) (send to cicku).
 
-TL;DR: This list embraces websites which Chinese authorities and some service providers don't want Chinese to view on the Internet.
+### To protect your privacy, please do not send report emails to any other email addresses (including the personal email addresses of the maintainers on their homepage).
 
 ---
-## If you want to report, make sure check our [wiki](https://github.com/gfwlist/gfwlist/wiki/Cautions) first.
+:warning: Warning:
 
-## In case you want to request anonymity, you can send report to us directly, please visit [cicku's profile](https://github.com/cicku) or [bocchi810's profile](https://github.com/cicku) to retrieve the email address.
+* Due to special network restrictions, it is impractical to handle reports from users in the following regions or with the following ISPs:
 
-WARNING:
+- Xinjiang
+- China Mobile
+- China Broadcasting Network (mobile data)
 
-* Due to the peculiar network control, it is **impractical** to deal with reports from users of provinces below:
+Xinjiang and China Mobile have their own censorship lists, and China Broadcasting Network uses China Mobile's backbone network, so it will be subject to China Mobile’s censorship.
 
-  - Xinjang (XinJiang Uyghur Autonomous Region)
-  
-  Example: Baidu netdisk is not allowed to use in XinJiang, but adding it into the list will cause trouble to the people living in the rest of the country.
-  
-  Therefore, any user within these areas is encouraged to either maintain custom rules, or use proxy all the time.
+Therefore, we encourage users from these regions to either maintain custom rules or always use a proxy.
 
-* GFWList doesn't provide prompt update for URLs submitted, normally they will be fully tested before adding into the list.
+* GFWList does not provide timely updates for submitted URLs. Typically, the URLs are thoroughly tested before they are added to the list.
 
 ---
 
-GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+GFWList URL (Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
-**Notwithstanding Github is competent for distribution, to hedge outages or connection issues we still recommend using any URL below.**
+**Although GitHub is capable of distribution, to avoid interruptions or connection issues, we still recommend using any of the following URLs.**
 
-**Official mirror URLs:**
-1. Pagure: https://pagure.io/gfwlist/raw/master/f/gfwlist.txt
+**Official Mirror URLs:**
 
-2. Repo.or.cz: http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt
+1. Repo.or.cz: http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt
 
-3. Bitbucket: https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
+2. Bitbucket: https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
 
-4. Gitlab: https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
+3. GitLab: https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
 
-5. TuxFamily: https://git.tuxfamily.org/gfwlist/gfwlist.git/plain/gfwlist.txt
-  
-**Mirrors can alleviate the problem caused by raw file fetch at GitHub which might be a breach of [GitHub ToS](https://github.com/site/terms).**
+**Mirrors can alleviate issues with accessing the raw file on GitHub, which may violate [GitHub's ToS](https://github.com/site/terms).**
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/gfwlist/gfwlist.svg)](https://starchart.cc/gfwlist/gfwlist)
+## Stargazers :star:
