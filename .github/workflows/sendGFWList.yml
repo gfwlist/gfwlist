@@ -46,7 +46,29 @@ jobs:
         run: |
           openssl base64 -in list.txt | tr -d '\r' > gfwlist.txt
 
+      - name: Set up GPG keys (bocchi810)
+        if: github.actor == 'bocchi810'
+        id: import-gpg-bocchi810
+        uses: crazy-max/ghaction-import-gpg@v6
+        with: 
+          gpg_private_key: ${{ secrets.GPG_KEY_BOCCHI810 }}
+          passphrase: ${{ secrets.GPG_PASS_BOCCHI810 }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+          
+      - name: save local changes to git & svn (bocchi810)
+        if: github.actor == 'bocchi810'
+        id: auto-commit-action-bocchi810
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_author: "${{ steps.import-gpg-bocchi810.outputs.name }} <${{ steps.import-gpg-bocchi810.outputs.email }}>"
+          commit_user_name: ${{ steps.import-gpg-bocchi810.outputs.name }}
+          commit_user_email: ${{ steps.import-gpg-bocchi810.outputs.email }}
+          commit_message: gfwlist edited ${{ env.DATE }}
+          file_pattern: 'gfwlist.txt'
+      
       - name: save local changes to git & svn
+        if: github.actor != 'bocchi810'
         id: auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
