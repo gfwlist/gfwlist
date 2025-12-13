@@ -1579,6 +1579,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||anuneko.com
 ||ai.dev
 ||adguard-vpn.com
 ||aoxvpn.com
