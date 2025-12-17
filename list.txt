@@ -4052,6 +4052,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||idcflare.com
 ||interseclab.org
 ||ipify.org
 @@||*.ipify.org
