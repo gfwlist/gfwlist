@@ -1868,6 +1868,7 @@ boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 
 !--------------------BB-------------------------
+||bitbaby.com
 ||bettergpt.chat
 ||bt4gprx.com
 ||bt4g.org
