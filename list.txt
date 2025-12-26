@@ -949,7 +949,6 @@ blogspot.com
 ||chromecast.com
 ||chromeexperiments.com
 ||chromestatus.com
-||chromium.org
 ||cloudfunctions.net
 ||crbug.com
 ||creativelab5.com
@@ -4482,6 +4481,7 @@ kyohk.net
 ||kzeng.info
 
 !--------------------LL-------------------------
+||lovart.ai
 ||library-access.sk
 ||linux.do
 ||lmarena.ai
