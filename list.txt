@@ -1578,6 +1578,7 @@ taiwannation.50webs.com
 ||9news.com.au
 
 !--------------------AA-------------------------
+||aljazeera.net
 ||anuneko.com
 ||ai.dev
 ||adguard-vpn.com
@@ -2581,8 +2582,6 @@ cyberghostvpn.com
 !--------------------DD-------------------------
 ||darmau.co
 ||dockerstatus.com
-||deno.dev
-||docs.deno.com
 ||doom9.org
 ||dweb.link
 ||docker.io
@@ -5754,6 +5753,7 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||steamladder.com
 ||sora.com
 ||lt.sntp.uk
 ||solscan.io
