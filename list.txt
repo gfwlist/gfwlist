@@ -900,6 +900,7 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
+||issues.chromium.org 
 ||goog
 ||gle
 ||google
