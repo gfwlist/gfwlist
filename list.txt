@@ -3292,6 +3292,7 @@ funp.com
 ||fxcm-chinese.com
 
 !--------------------GG-------------------------
+||gfwbao.com
 ||greatfirevpn.com
 ||garudalinux.org
 ||about.gitlab.com
