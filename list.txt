@@ -5264,6 +5264,7 @@ oyghan.com/wps
 .ozyoyo.com
 
 !--------------------PP-------------------------
+||pdst.fm
 ||static.pocketcasts.com
 ||partnerstack.xyz
 ||podwise.ai
@@ -6802,6 +6803,7 @@ twurl.nl
 ||typora.io
 
 !--------------------UU-------------------------
+||up.audio
 ||udomain.hk
 ||upbit.com
 ||demo.unlock-music.dev
