@@ -2581,6 +2581,7 @@ cyberghostvpn.com
 ||nic.cz.cc
 
 !--------------------DD-------------------------
+||dazn.com
 ||darmau.co
 ||dockerstatus.com
 ||doom9.org
@@ -5155,6 +5156,8 @@ nylonstockingsonline.com
 .nzchinese.com
 
 !--------------------OO-------------------------
+||ooni.io
+||ooni.org
 ||files.oaiusercontent.com
 ||octocaptcha.com
 ||oojj.de
@@ -7303,6 +7306,7 @@ wujieliulan.com
 wzyboy.im/post/160
 
 !--------------------XX-------------------------
+||xcancel.com
 ||www.xicons.org
 ||x.ai
 ||xt.com
