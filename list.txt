@@ -875,6 +875,7 @@ bloomberg.de
 .ftchinese.com
 ||ftchinese.com
 !!---Google---
+||ai.studio
 ||issues.chromium.org 
 ||goog
 ||gle
