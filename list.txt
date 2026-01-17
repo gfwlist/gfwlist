@@ -1545,6 +1545,9 @@ taiwannation.50webs.com
 ||aljazeera.com
 ||akinator.com
 ||annas-archive.org
+||annas-archive.in
+||annas-archive.li
+||annas-archive.pm
 ||av01.tv
 ||acg.rip
 ||annas-archive.se
@@ -6574,10 +6577,11 @@ tuitwit.com
 .tv.com
 |http://tv.com
 tvants.com
-||forum.tvb.com
+||mytvsuper.com
+||tvbanywhere.com
+||akamai.tvb.com
 ||inews-api.tvb.com
-news.tvbs.com.tw
-.tvboxnow.com
+||news.tvbs.com.tw
 ||tvboxnow.com
 tvider.com
 .tvmost.com.hk
