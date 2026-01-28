@@ -2120,6 +2120,7 @@ busytrade.com
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||backend-v2.crixet.com
 ||cchostvps.xyz
 ||canva.com
 ||chatpdf.com
