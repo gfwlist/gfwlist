@@ -253,6 +253,7 @@
 !--@@||intl.target.com
 ||rcam.target.com
 ||technews.tw
+||freeterabox.com
 ||terabox.com
 ||thinkgeek.com
 ||thebodyshop-usa.com
