@@ -7271,6 +7271,7 @@ xvideo.cc
 xys.org
 xysblogs.org
 !--------------------YY-------------------------
+||yfsp.tv
 ||youmind.com
 ||yangzhi.org
 ||storage.yandex.net
