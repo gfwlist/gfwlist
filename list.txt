@@ -4571,6 +4571,7 @@ lvhai.org
 .lzmtnews.org
 ||lzmtnews.org
 !--------------------MM-------------------------
+||dcs-spotify.megaphone.fm
 ||mij.rip
 ||mji.rip
 ||mjj.rip
@@ -6137,6 +6138,7 @@ blog.syx86.com/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 !--------------------TT-------------------------
+||bbc.pdn.tritondigital.com
 ||terobox.com
 ||temu.com
 ||trustwallet.com
