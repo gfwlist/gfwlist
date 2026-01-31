@@ -1819,6 +1819,7 @@ azerimix.com
 boxun*.azurewebsites.net
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||help.byspotify.com
 ||bitbaby.com
 ||bettergpt.chat
 ||bt4gprx.com
