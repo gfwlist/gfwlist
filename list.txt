@@ -797,7 +797,7 @@ bloomberg.de
 .zzux.com
 !!--Cloudflare--
 ||cloudflarestatus.com
-!--||pages.dev
+||pages.dev
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
@@ -1194,7 +1194,9 @@ cn.nytstyle.com
 ||twitter.jp
 ||vine.co
 ||x.com
+
 !!---Taiwan---
+||sef.org.tw
 ||moj.gov.tw
 ||gov.taipei
 .gov.tw
@@ -3705,6 +3707,7 @@ guruonline.hk
 .gyalwarinpoche.com
 .gyatsostudio.com
 !--------------------HH-------------------------
+||www.hoyolab.com
 ||hbomax.com
 ||hicairo.com
 ||herominers.com
