@@ -3228,6 +3228,7 @@ funp.com
 .fxcm-chinese.com
 ||fxcm-chinese.com
 !--------------------GG-------------------------
+||grokipedia.com
 ||gfwbao.com
 ||greatfirevpn.com
 ||garudalinux.org
