@@ -3941,6 +3941,7 @@ oyghan.com/wps
 .ozxw.com
 .ozyoyo.com
 !--------------------PP-------------------------
+||prompthero.com
 ||pdst.fm
 ||static.pocketcasts.com
 ||partnerstack.xyz
