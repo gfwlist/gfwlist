@@ -662,7 +662,6 @@ www.aolnews.com
 ||agoogleaday.com
 ||ampproject.org
 ||android.com
-@@||ci.android.com
 ||androidify.com
 ||androidtv.com
 ||api.ai
@@ -3844,8 +3843,6 @@ iipdigital.usembassy.gov
 ||tycool.com
 !--typepad
 ||typepad.com
-@@||www.typepad.com
-@@||static.typepad.com
 ||blog.expofutures.com
 ||contests.twilio.com
 ||typora.io
