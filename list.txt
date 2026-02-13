@@ -4274,26 +4274,24 @@ iipdigital.usembassy.gov
 !###########Supplemental List Start#############
 !#############Supplemental List End#############
 !################Whitelist Start################
+@@||www.typepad.com
+@@||static.typepad.com
+@@||ci.android.com
+@@||crl.pki.goog
+@@||g2.gstatic.com
+@@||g1.gstatic.com
+@@||g0.gstatic.com
+@@||checkin.gstatic.com
 @@||*.ipify.org
 @@||i.pki.goog
+@@||c.pki.goog
+@@||o.pki.goog
 @@||adservice.google.com
 @@||dl.google.com
-!--@@||kh.google.com
-!--@@||khm.google.com
-!--@@||khm0.google.com
-!--@@||khm1.google.com
-!--@@||khm2.google.com
-!--@@||khm3.google.com
-!--@@||khmdb.google.com
 @@||tools.google.com
 @@||clientservices.googleapis.com
+@@||imasdk.googleapis.com
 @@||fonts.googleapis.com
-!--@@||khm.googleapis.com
-!--@@||khm0.googleapis.com
-!--@@||khm1.googleapis.com
-!--@@||khm2.googleapis.com
-!--@@||khm3.googleapis.com
-!--@@||khmdb.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||connectivitycheck.gstatic.com
@@ -4304,6 +4302,7 @@ iipdigital.usembassy.gov
 @@||ocsp.pki.goog
 @@||www.ampproject.org
 @@||cdn.ampproject.org
+@@||cdn-china.ampproject.org
 @@||redirector.gvt1.com
 !################Whitelist End##################
 !---------------------EOF-----------------------
