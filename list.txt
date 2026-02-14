@@ -2921,7 +2921,7 @@ iipdigital.usembassy.gov
 ||nexttv.com.tw
 ||co.ng.mil
 ||nga.mil
-|http://nhentai.net
+||nhentai.net
 ||nicovideo.jp
 ||ninjaproxy.ninja
 ||niusnews.com
