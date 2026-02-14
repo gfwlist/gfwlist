@@ -3988,6 +3988,7 @@ iipdigital.usembassy.gov
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||wallzhihu.com
 ||wikis.tw
 ||weights.com
 ||wikiunblocked.org
