@@ -2126,6 +2126,7 @@ iipdigital.usembassy.gov
 ||fw.cm
 ||fxcm-chinese.com
 !--------------------GG-------------------------
+||gmgn.ai
 ||grokipedia.com
 ||gfwbao.com
 ||greatfirevpn.com
@@ -3988,6 +3989,7 @@ iipdigital.usembassy.gov
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||walletconnect.org
 ||wallzhihu.com
 ||wikis.tw
 ||weights.com
