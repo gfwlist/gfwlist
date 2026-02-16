@@ -1066,6 +1066,7 @@ www.aolnews.com
 ||fda.gov.tw
 ||hpa.gov.tw
 ||immigration.gov.tw
+||taiwan.gov.tw
 ||itaiwan.gov.tw
 ||judicial.gov.tw
 ||li.taipei
