@@ -1053,6 +1053,7 @@ www.aolnews.com
 ||x.com
 
 !!---Taiwan---
+||twgov.tw
 ||gov.tw
 @@||www.gov.tw
 ||gov.taipei
