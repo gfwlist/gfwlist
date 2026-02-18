@@ -933,7 +933,7 @@ www.aolnews.com
 ||googleweblight.com
 ||googlezip.net
 ||gstatic.com
-||gvt1.com]
+||gvt1.com
 ||gvt3.com
 ||gwtproject.org
 ||html5rocks.com
@@ -2668,6 +2668,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mosavi.io
 ||dcs-spotify.megaphone.fm
 ||mij.rip
 ||mji.rip
