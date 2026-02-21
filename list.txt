@@ -1191,6 +1191,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||akile.io
 ||aljazeera.net
 ||anuneko.com
 ||ai.dev
@@ -1518,6 +1519,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
 ||cchostvps.xyz
@@ -2668,6 +2670,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||meee.com.tw
 ||mosavi.io
 ||dcs-spotify.megaphone.fm
 ||mij.rip
@@ -2826,6 +2829,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||assets.nxtrace.org
 ||nephobox.com
 ||namu.wiki
 ||nirsoft.net
@@ -2929,6 +2933,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||opencritic.com
 ||ooni.io
 ||ooni.org
 ||files.oaiusercontent.com
