@@ -2671,6 +2671,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||manus.im
 ||meee.com.tw
 ||mosavi.io
 ||dcs-spotify.megaphone.fm
