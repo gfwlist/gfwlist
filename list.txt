@@ -1519,6 +1519,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||claude.com
 ||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
@@ -2417,7 +2418,6 @@ iipdigital.usembassy.gov
 ||imagezilla.net
 |http://imb.org
 !--IMDB
-|http://www.imdb.com/name/nm0482730
 ||img.ly
 ||imgasd.com
 ||imgur.com
