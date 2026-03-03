@@ -1191,6 +1191,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||arweave.org
 ||arena.ai
 ||akile.io
 ||aljazeera.net
