@@ -1191,6 +1191,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||arena.ai
 ||akile.io
 ||aljazeera.net
 ||anuneko.com
@@ -3968,6 +3969,7 @@ iipdigital.usembassy.gov
 ||vtunnel.com
 ||vuku.cc
 !--------------------WW-------------------------
+||wispbyte.com
 ||walletconnect.org
 ||wallzhihu.com
 ||wikis.tw
