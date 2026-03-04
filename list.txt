@@ -1868,6 +1868,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||economist.com
 ||e621.net
 ||edx-cdn.org
 ||everipedia.org
@@ -4218,7 +4219,6 @@ iipdigital.usembassy.gov
 ||z-lib.io
 ||z-lib.org
 ||zalmos.com
-||zaobao.com.sg
 ||zdnet.com.tw
 ||zello.com
 ||zenmate.com
