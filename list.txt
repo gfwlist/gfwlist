@@ -25,7 +25,6 @@
 ||500px.org
 !--ehentai
 |http://85.17.73.31/
-!--||adorama.com
 ||afreecatv.com
 ||agnesb.fr
 ||airitilibrary.com
@@ -1753,6 +1752,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||download.dappcdn.com
 ||dazn.com
 ||darmau.co
 ||dockerstatus.com
