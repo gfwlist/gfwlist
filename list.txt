@@ -635,6 +635,7 @@ www.aolnews.com
 !!---FTChinese---
 ||ftchinese.com
 !!---Google---
+||google.dev
 ||ai.studio
 ||chromium.org
 ||goog
