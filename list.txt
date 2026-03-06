@@ -594,6 +594,7 @@ www.aolnews.com
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
+||dns.cloudflare.com
 !!---Dynu---
 ||dynu.com
 !!---Facebook---
