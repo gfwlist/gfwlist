@@ -3302,6 +3302,7 @@ iipdigital.usembassy.gov
 ||rutracker.org
 |http://rxhj.net
 !--------------------SS-------------------------
+||shitjournal.org
 ||spacex.com
 ||stephaniered.com
 ||simianx.ai
