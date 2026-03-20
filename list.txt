@@ -1523,6 +1523,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cia.gov
 ||claude.com
 ||www.clashverge.dev
 ||clementine-player.org
