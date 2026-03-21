@@ -26,7 +26,7 @@ Support languages:
 
 ## 如果您想要求匿名，您可以直接向我们发送报告
 
-:email:请将您的报告发送至 [gfwlistreport@proton.me](mailto:gfwlistreport@proton.me) （发送给[bocchi810](https://github.com/bocchi810)） 或者 [gfw@dyi.ng](mailto:gfw@dyi.ng) （发送给[cicku](https://github.com/cicku)）  
+:email:请将您的报告发送至（ 将#换成@ ） gfwlistreport#proton.me（发送给[bocchi810](https://github.com/bocchi810)） 或者 gfw#dyi.ng（发送给[cicku](https://github.com/cicku)）  
 
 建议使用[Session](https://github.com/session-foundation)向[bocchi810](https://github.com/bocchi810)发送报告，或者让其邀请加入Session群组,Session ID 为: `0569cba6045cc758c7ff565f3866f6f1387672fa9ea00f16a4e0df967208ca2a27`  
 
