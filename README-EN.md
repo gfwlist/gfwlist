@@ -10,9 +10,7 @@
 
 ---
 
-**Supported languages:**  
-Simplified Chinese (README.md)  
-English (README-EN.md)
+**Supported languages:**   [Simplified Chinese](README.md) [English](README-EN.md)
 
 ---
 
