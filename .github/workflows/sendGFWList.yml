@@ -49,7 +49,7 @@ jobs:
       - name: Set up GPG keys (bocchi810)
         if: github.actor == 'bocchi810'
         id: import-gpg-bocchi810
-        uses: crazy-max/ghaction-import-gpg@v6
+        uses: crazy-max/ghaction-import-gpg@v7
         with: 
           gpg_private_key: ${{ secrets.GPG_KEY_BOCCHI810 }}
           passphrase: ${{ secrets.GPG_PASS_BOCCHI810 }}
