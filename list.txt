@@ -299,6 +299,7 @@
 ||r-pool.net
 ||w-pool.com
 !----------------------IDN----------------------
+||xn--1jqvh729avzfcy2d8ummib.com
 ||xn--9iqy04a7fi01l.com
 ||xn--u2u927b.com
 ||xn--11xs86f.icu
