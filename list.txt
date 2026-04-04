@@ -4277,7 +4277,6 @@ iipdigital.usembassy.gov
 @@||g1.gstatic.com
 @@||g0.gstatic.com
 @@||checkin.gstatic.com
-@@||*.ipify.org
 @@||i.pki.goog
 @@||c.pki.goog
 @@||o.pki.goog
