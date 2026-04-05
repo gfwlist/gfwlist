@@ -1194,6 +1194,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||archive-it.org
 ||aave.com
 ||arweave.org
 ||arena.ai
@@ -1758,6 +1759,9 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||dns.sb
+||doh.sb
+||dot.sb
 ||download.dappcdn.com
 ||dazn.com
 ||darmau.co
