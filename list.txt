@@ -693,6 +693,7 @@ www.aolnews.com
 ||duck.com
 ||feedburner.com
 ||firebaseio.com
+||crashlytics.com
 ||g.co
 ||gcr.io
 ||get.app
@@ -4272,6 +4273,7 @@ iipdigital.usembassy.gov
 !###########Supplemental List Start#############
 !#############Supplemental List End#############
 !################Whitelist Start################
+@@||firebase-settings.crashlytics.com
 @@||cn.investing.com
 @@||www.typepad.com
 @@||static.typepad.com
