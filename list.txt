@@ -211,7 +211,6 @@
 ||primevideo.com
 ||proyectoclubes.com
 ||pure18.com
-||pytorch.org
 ||qq.co.za
 ||r18.com
 |http://radiko.jp
@@ -2686,6 +2685,7 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mistral.ai
 ||manus.im
 ||meee.com.tw
 ||mosavi.io
@@ -2733,7 +2733,6 @@ iipdigital.usembassy.gov
 ||mediachinese.com
 ||mediafreakcity.com
 ||medium.com
-||meetup.com
 ||mega.co.nz
 ||mega.io
 ||mega.nz
