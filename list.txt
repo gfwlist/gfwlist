@@ -3605,11 +3605,9 @@ iipdigital.usembassy.gov
 ||tbsec.org
 ||tbsn.org
 |http://tbssqh.org
-||techspot.com
 ||techviz.net
 ||teck.in
 ||tehrantimes.com
-||telegraph.co.uk
 ||tenor.com
 ||tenzinpalmo.com
 ||tew.org
