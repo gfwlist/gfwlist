@@ -1194,6 +1194,9 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||annas-archive.gd
+||annas-archive.gl
+||annas-archive.pk
 ||archive-it.org
 ||aave.com
 ||arweave.org
@@ -1211,13 +1214,8 @@ iipdigital.usembassy.gov
 ||aomedia.org
 ||aljazeera.com
 ||akinator.com
-||annas-archive.org
-||annas-archive.in
-||annas-archive.li
-||annas-archive.pm
 ||av01.tv
 ||acg.rip
-||annas-archive.se
 ||a-normal-day.com
 |http://aamacau.com
 ||abc.net.au
