@@ -563,15 +563,7 @@
 !!---Amazon---
 ||payments-jp.amazon.com
 ||amazon.co.jp
-||s3-ap-*.amazonaws.com
-||s3.eu-central-1.amazonaws.com
-||s3-eu-central-1.amazonaws.com
-||s3.us-east-1.amazonaws.com
-||s3-ap-northeast-2.amazonaws.com
-||s3.ap-northeast-2.amazonaws.com
 ||s3-ap-northeast-1.amazonaws.com
-||s3-ap-southeast-1.amazonaws.com
-||s3-ap-southeast-2.amazonaws.com
 !!---AOL---
 ||video.aol.com
 ||search.aol.com
@@ -1244,7 +1236,6 @@ iipdigital.usembassy.gov
 ||aiosearch.com
 ||aiph.net
 ||airconsole.com
-|http://download.aircrack-ng.org
 ||airvpn.org
 ||ait.org.tw
 ||aiweiweiblog.com
