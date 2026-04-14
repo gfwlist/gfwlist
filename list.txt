@@ -2295,8 +2295,6 @@ iipdigital.usembassy.gov
 |http://hitomi.la
 |http://hk-pub.com
 ||hk01.com
-||hkacg.com
-||hkacg.net
 ||hkbookcity.com
 ||hkchronicles.com
 ||hkcnews.com
@@ -2820,7 +2818,6 @@ iipdigital.usembassy.gov
 ||mullvad.net
 ||muzi.com
 ||muzi.net
-||mx981.com
 ||my-private-network.co.uk
 ||myaudiocast.com
 ||bbs.mychat.to
@@ -2938,6 +2935,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||openart.ai
 ||osmand.net
 ||oklink.com
 ||okcoin.com
@@ -3972,7 +3970,6 @@ iipdigital.usembassy.gov
 ||vrchat.com
 ||vrporn.com
 ||vtunnel.com
-||vuku.cc
 !--------------------WW-------------------------
 ||wispbyte.com
 ||walletconnect.org
@@ -4136,7 +4133,6 @@ iipdigital.usembassy.gov
 |http://xing.com
 ||xinjiangpolicefiles.org
 ||xinmiao.com.hk
-||xjp.cc
 ||xjtravelguide.com
 ||xml-training-guide.com
 ||xnxx.com
