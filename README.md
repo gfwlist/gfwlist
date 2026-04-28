@@ -28,8 +28,6 @@ Support languages:
 
 :email:请将您的报告发送至（ 将#换成@ ） gfwlistreport#proton.me（发送给[bocchi810](https://github.com/bocchi810)） 或者 gfw#dyi.ng（发送给[cicku](https://github.com/cicku)）  
 
-建议使用[Session](https://github.com/session-foundation)向[bocchi810](https://github.com/bocchi810)发送报告，或者让其邀请加入Session群组,Session ID 为: `0569cba6045cc758c7ff565f3866f6f1387672fa9ea00f16a4e0df967208ca2a27`  
-
 ### 为了保护您的隐私，请不要将报告邮件发送到非以上两个邮箱的其他地址（包括维护者主页的个人邮箱），以及不复制直接人工录入Session ID  
 
 ---
