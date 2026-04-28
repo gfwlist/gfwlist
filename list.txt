@@ -3838,6 +3838,7 @@ iipdigital.usembassy.gov
 ||contests.twilio.com
 ||typora.io
 !--------------------UU-------------------------
+||upsangel.com
 ||sbti.unun.dev
 ||uniswap.org
 ||up.audio
