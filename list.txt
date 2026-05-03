@@ -437,10 +437,6 @@
 ||uraban.me
 ||vrsmash.com
 ||vultryhw.com
-||scache.vzw.com
-||scache1.vzw.com
-||scache2.vzw.com
-||ss7.vzw.com
 ||ssr.tools
 ||steemit.com
 ||taiwanjustice.net
