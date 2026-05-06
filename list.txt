@@ -313,6 +313,7 @@
 ||xn--ngstr-lra8j.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
+||music.amazon.com
 ||cdn-images.mailchimp.com
 ||abebooks.com
 ||9cache.com
@@ -1181,6 +1182,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||acg.mn
 ||asiasociety.org
 ||avistaz.to
 ||annas-archive.gd
@@ -1352,6 +1354,8 @@ iipdigital.usembassy.gov
 !--boxun.azurewebsites.net doesn't exist.
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||boomplay.com
+||bleepingcomputer.com
 ||bellingcat.com
 ||bittorrent.com
 ||help.byspotify.com
@@ -1513,6 +1517,8 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||ctinsider.com
+||cnbc.com
 ||cia.gov
 ||claude.com
 ||www.clashverge.dev
@@ -1865,6 +1871,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||edigest.hk
 ||app.element.io
 ||economist.com
 ||e621.net
@@ -2234,6 +2241,7 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hive.blog
 ||v2.hysteria.network
 ||hembed.com
 ||www.hoyolab.com
@@ -2363,6 +2371,7 @@ iipdigital.usembassy.gov
 ||hypothes.is
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||infosec.exchange
 ||investing.com
 ||idcflare.com
 ||interseclab.org
@@ -2535,6 +2544,7 @@ iipdigital.usembassy.gov
 ||juziyue.com
 ||cdn.jwplayer.com
 !--------------------KK-------------------------
+||kathmandupost.com
 ||kingkong.com.tw
 ||kanald.com.tr
 ||kpkuang.org
@@ -2586,6 +2596,8 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||libgen.is
+||lemonde.fr
 ||lantern.io
 ||lovart.ai
 ||library-access.sk
@@ -2672,6 +2684,8 @@ iipdigital.usembassy.gov
 ||lzjscript.com
 ||lzmtnews.org
 !--------------------MM-------------------------
+||mjj.today
+||mediamatters.org
 ||mistral.ai
 ||manus.im
 ||meee.com.tw
@@ -2831,6 +2845,10 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||nfscofficial.com
+||nfsc.press
+||newstimes.com
+||newshub.co.nz
 ||assets.nxtrace.org
 ||nephobox.com
 ||namu.wiki
@@ -2935,6 +2953,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||overdrive.com
 ||openart.ai
 ||osmand.net
 ||oklink.com
@@ -3004,6 +3023,7 @@ iipdigital.usembassy.gov
 ||ow.ly
 ||ozvoice.org
 !--------------------PP-------------------------
+||penguin.com.au
 ||prompthero.com
 ||pdst.fm
 ||static.pocketcasts.com
@@ -3210,6 +3230,7 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||rts.ch
 ||rawstory.com
 ||recordedfuture.com
 ||roblox.com
@@ -3303,6 +3324,7 @@ iipdigital.usembassy.gov
 ||rutracker.org
 |http://rxhj.net
 !--------------------SS-------------------------
+||sinchew.com.my
 ||softether.co.jp
 ||shitjournal.org
 ||spacex.com
@@ -3539,6 +3561,10 @@ iipdigital.usembassy.gov
 ||sylfoundation.org
 ||syncback.com
 !--------------------TT-------------------------
+||tvdy1.com
+||tgstat.com
+||the-sun.com
+||theweek.com
 ||techbang.com
 ||thinkchina.sg
 ||tor.eff.org
@@ -3902,6 +3928,7 @@ iipdigital.usembassy.gov
 ||uyghurtribunal.com
 |http://uymaarip.com/
 !--------------------VV-------------------------
+||vox.com
 ||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
@@ -3978,6 +4005,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||worldjournal.com
 ||wispbyte.com
 ||walletconnect.org
 ||wallzhihu.com
