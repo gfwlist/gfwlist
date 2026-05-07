@@ -2953,6 +2953,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||umap.openstreetmap.fr
 ||overdrive.com
 ||openart.ai
 ||osmand.net
