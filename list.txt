@@ -3328,6 +3328,7 @@ iipdigital.usembassy.gov
 ||rutracker.org
 |http://rxhj.net
 !--------------------SS-------------------------
+||sider.ai
 ||sinchew.com.my
 ||softether.co.jp
 ||shitjournal.org
