@@ -1112,6 +1112,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||24hbook.com
 ||996.icu
 ||ipfs.4everland.io
 ||91dasai.com
@@ -2690,6 +2691,7 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||mas.to
 ||mjj.today
 ||mediamatters.org
 ||mistral.ai
@@ -2851,6 +2853,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||neodb.social 
 ||nfscofficial.com
 ||nfsc.press
 ||newstimes.com
