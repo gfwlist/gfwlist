@@ -2828,6 +2828,7 @@ iipdigital.usembassy.gov
 |http://motherless.com
 ||movements.org
 ||moviefap.com
+||mozilla.ai
 ||www.moztw.org
 ||mpettis.com
 ||mpfinance.com
