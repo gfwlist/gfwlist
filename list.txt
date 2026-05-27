@@ -1846,6 +1846,7 @@ iipdigital.usembassy.gov
 ||dougscripts.com
 ||doujincafe.com
 |https://bartender.dowjones.com
+||dowjones.io
 ||dpp.org.tw
 ||dpr.info
 ||dragonsprings.org
