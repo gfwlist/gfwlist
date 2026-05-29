@@ -1394,6 +1394,7 @@ iipdigital.usembassy.gov
 ||bandwagonhost.com
 |http://bangchen.net
 ||bangkokpost.com
+||bangumi.tv
 ||bangyoulater.com
 ||bannedbook.org
 |http://baramangaonline.com
@@ -1424,6 +1425,7 @@ iipdigital.usembassy.gov
 ||betvictor.com
 ||bfnn.org
 ||bfsh.hk
+||bgm.tv
 ||bgvpn.com
 ||biblesforamerica.org
 ||vpl.bibliocommons.com
@@ -1621,6 +1623,7 @@ iipdigital.usembassy.gov
 ||chenpokongvip.com
 ||cherrysave.com
 ||chhongbi.org
+||chii.in
 ||china-week.com
 ||china101.com
 ||china18.org
