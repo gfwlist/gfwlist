@@ -372,7 +372,6 @@
 ||line-scdn.net
 ||i.lithium.com
 ||cloud.mail.ru
-||cdn-images.mailchimp.com
 ||mastodon.cloud
 ||mastodon.host
 ||mastodon.social
@@ -1323,6 +1322,7 @@ iipdigital.usembassy.gov
 ||areca-backup.org
 ||arethusa.su
 ||arlingtoncemetery.mil
+||as.mr
 ||asacp.org
 ||asiaharvest.org
 ||asianage.com
@@ -1520,7 +1520,6 @@ iipdigital.usembassy.gov
 !--------------------CC-------------------------
 ||chonglangtv.org
 ||ctinsider.com
-||cnbc.com
 ||cia.gov
 ||claude.com
 ||www.clashverge.dev
@@ -2153,6 +2152,7 @@ iipdigital.usembassy.gov
 ||geek-art.net
 ||gekikame.com
 |http://gelbooru.com
+||gencraft.com
 ||generated.photos
 ||genius.com
 ||geph.io
@@ -2295,6 +2295,7 @@ iipdigital.usembassy.gov
 ||heyuedi.com
 ||hiccears.com
 ||hidden-advent.org
+||hiddify.com
 ||hide.me
 ||hideipvpn.com
 ||hideman.net
@@ -3482,7 +3483,6 @@ iipdigital.usembassy.gov
 ||sockslist.net
 |http://socrec.org
 ||softether.org
-||softether-download.com
 ||cdn.softlayer.net
 ||sogclub.com
 ||sohcradio.com
@@ -3948,6 +3948,7 @@ iipdigital.usembassy.gov
 ||vimeocdn.com
 ||vpsxb.net
 ||vilanet.me
+||veed.io
 ||vewas.net
 ||v2.help
 ||vocaroo.com
@@ -4230,7 +4231,6 @@ iipdigital.usembassy.gov
 |http://yeyeclub.com
 ||yhcw.net
 ||yibaochina.com
-||yidio.com
 ||s.yimg.com
 ||yipub.com
 ||yizhihongxing.com
