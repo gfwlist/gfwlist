@@ -269,6 +269,7 @@
 ||zim.vn
 ||zozotown.com
 !##############General List Start###############
+||wplace.live
 !-------------------Coin Pool-------------------
 ||c3pool.com
 ||unmineable.com
