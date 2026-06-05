@@ -578,7 +578,6 @@ www.aolnews.com
 ||bloombergview.com
 !!--Cloudflare--
 ||cloudflarestatus.com
-||pages.dev
 ||workers.dev
 ||one.one.one.one
 ||cloudflare-dns.com
@@ -3572,6 +3571,7 @@ iipdigital.usembassy.gov
 |http://surfeasy.com.au
 ||surfshark.com
 ||surrenderat20.net
+||suyingtv.com
 ||swissinfo.ch
 ||swissvpn.net
 ||switchvpn.net
@@ -4148,6 +4148,7 @@ iipdigital.usembassy.gov
 ||xijie.wordpress.com
 ||ifreechina.wordpress.com
 ||wp.com
+||wplace.live
 ||wowporn.com
 ||wowgirls.com
 |http://woyaolian.org
