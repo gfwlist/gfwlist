@@ -45,10 +45,7 @@ Support languages:
 **官方镜像 URL：**
 
 1. Repo.or.cz：http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt
-
-2. Bitbucket：https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
-
-3. GitLab：https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
+2. GitLab：https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
 
 **镜像可以缓解 GitHub 上原始文件获取导致的问题。**
 
