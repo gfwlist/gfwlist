@@ -30,24 +30,15 @@ Support languages:
 
 ### 为了保护您的隐私，请不要将报告邮件发送到非以上两个邮箱的其他地址（包括维护者主页的个人邮箱）
 
----
-:warning:警告：
-
-* 由于特殊的网络控制，处理来自以下地区或运营商用户的报告是不切实际的：
-
-- 新疆
-- 中国移动
-- 中国广电（蜂窝移动数据）
-
-新疆和中国移动都有自己的一份审查名单，中国广电使用中国移动的骨干网，会受到中国移动的审查影响  
-
-因此，鼓励这些地区内的任何用户要么维护自定义规则，要么始终使用代理。
-
 * GFWList 不会对已提交的 URL 提供及时更新，通常会在将其添加到列表之前对其进行全面测试。
 
 ---
 
-GFWList URL（Github）：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+### GFWList URL（Github）：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt  
+### GFWList URL（jsDelivr）：  
+1. gcore(实际上是Cloudflare): https://gcore.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt  
+2. Cloudflare：https://testingcf.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt  
+3. Fastly：https://fastly.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt  
 
 **尽管 Github 有能力进行分发，但为了避免中断或连接问题，我们仍然建议使用以下任何 URL。**
 
@@ -59,7 +50,7 @@ GFWList URL（Github）：https://raw.githubusercontent.com/gfwlist/gfwlist/mast
 
 3. GitLab：https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
 
-**镜像可以缓解 GitHub 上原始文件获取导致的问题，这可能违反 [GitHub ToS](https://github.com/site/terms)。**
+**镜像可以缓解 GitHub 上原始文件获取导致的问题。**
 
 ## Stargazers :star:
 
