@@ -15,6 +15,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/503/520 & URL Redirects---------
+||accountboy.com
 ||blogjav.net
 ||zoominfo.com
 ||ptwxz.com
