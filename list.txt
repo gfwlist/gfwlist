@@ -311,6 +311,7 @@
 ||xn--9pr62r24a.com
 @@/^https?:\/\/(?=.*?(2x3|ni5|j5o))[a-z0-9.-]+\.xn--ngstr-lra8j\.com$
 ||xn--ngstr-lra8j.com
+||xn--vuqv2cf7wzyig79c.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
 ||music.amazon.com
@@ -1181,6 +1182,7 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||accountboy.com
 ||acg.mn
 ||asiasociety.org
 ||avistaz.to
