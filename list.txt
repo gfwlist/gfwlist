@@ -1442,6 +1442,7 @@ iipdigital.usembassy.gov
 !--boxun.azurewebsites.net doesn't exist.
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||bilinovel.com
 ||boomplay.com
 ||bleepingcomputer.com
 ||bellingcat.com
