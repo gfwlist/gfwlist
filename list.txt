@@ -1197,6 +1197,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||18mh.net
 ||24hbook.com
 ||996.icu
 ||ipfs.4everland.io
