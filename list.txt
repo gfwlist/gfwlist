@@ -98,6 +98,7 @@
 ||funkyimg.com
 ||fxnetworks.com
 ||g-area.org
+||get.dappcdn.com
 ||gettyimages.ca
 ||gettyimages.us
 ||gettyimages.hk
