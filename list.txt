@@ -1139,6 +1139,9 @@ www.aolnews.com
 ||teco-mo.org
 ||kinmen.org.tw
 !!---USA---
+||spaceforce.mil
+||airuniversity.af.edu
+||supremecourt.gov
 ||americorps.gov
 ||dma.mil
 ||jpl.nasa.gov
@@ -2205,6 +2208,8 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||gate.com
+||guangming.com.my
 ||g.ai
 ||gmgn.ai
 ||grokipedia.com
@@ -2342,6 +2347,7 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hkong.hk
 ||hive.blog
 ||v2.hysteria.network
 ||hembed.com
@@ -2645,6 +2651,7 @@ iipdigital.usembassy.gov
 ||juziyue.com
 ||cdn.jwplayer.com
 !--------------------KK-------------------------
+||kfor.com
 ||kathmandupost.com
 ||kingkong.com.tw
 ||kanald.com.tr
@@ -3129,6 +3136,8 @@ iipdigital.usembassy.gov
 ||ow.ly
 ||ozvoice.org
 !--------------------PP-------------------------
+||perma.cc
+||pcgamesn.com
 ||penguin.com.au
 ||prompthero.com
 ||pdst.fm
@@ -3336,6 +3345,7 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||restofworld.org
 ||rts.ch
 ||rawstory.com
 ||recordedfuture.com
@@ -3672,6 +3682,9 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||theintercept.com
+||trtworld.com
+||twstalker.com
 ||tvdy1.com
 ||tgstat.com
 ||the-sun.com
@@ -3835,7 +3848,7 @@ iipdigital.usembassy.gov
 ||tibetwrites.org
 ||tigervpn.com
 |http://timdir.com
-|http://time.com
+||time.com
 ||timesnownews.com
 ||timtales.com
 ||blog.tiney.com
@@ -4117,6 +4130,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||washingtontimes.com
 ||worldjournal.com
 ||wispbyte.com
 ||walletconnect.org
@@ -4254,6 +4268,7 @@ iipdigital.usembassy.gov
 ||wuw.red
 ||wwitv.com
 !--------------------XX-------------------------
+||xuan.com.my
 ||xdaforums.com
 ||xcancel.com
 ||www.xicons.org
