@@ -49,6 +49,6 @@ Support languages:
 
 **镜像可以缓解 GitHub 上原始文件获取导致的问题。**
 
-## Stargazers :star:
+## Star 历史变化 :star:
 
-[![Stargazers over time](https://starchart.cc/gfwlist/gfwlist.svg?variant=adaptive)](https://starchart.cc/gfwlist/gfwlist)
+[![Star History Chart](https://api.star-history.com/chart?repos=gfwlist/gfwlist&type=date&legend=top-left)](https://www.star-history.com/?repos=gfwlist%2Fgfwlist&type=date&legend=top-left)
