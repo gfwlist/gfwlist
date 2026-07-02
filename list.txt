@@ -4141,6 +4141,7 @@ iipdigital.usembassy.gov
 ||weights.com
 ||wikiunblocked.org
 ||websdr.org
+||webshare.io
 ||wikipedia.com
 ||wxw.moe
 ||wxw.cat
