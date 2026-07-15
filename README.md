@@ -23,7 +23,7 @@
 为了最大程度保护您的隐私，**请勿**将报告邮件发送到维护者的个人邮箱。您可以通过以下加密邮箱直接向我们发送报告（发送时请将 `#` 替换为 `@`）：
 
 * 📧 `gfwlistreport#proton.me`（发送给 [bocchi810](https://github.com/bocchi810)）
-* 📧 `gfw#dyi.ng`（发送给 [cicku](https://github.com/cicku)）
+* 📧 `gfw#dyi.ng`（发送给 [cicku](https://github.com/cicku)， 同时转发给bocchi810）
 
 > ⚠️ **说明：** GFWList 不会对已提交的 URL 提供实时更新。为了确保列表质量，我们通常会在将其正式添加到列表之前进行全面的可用性测试。
 
