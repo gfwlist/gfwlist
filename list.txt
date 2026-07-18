@@ -1202,6 +1202,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||18comic.vip
 ||18mh.net
 ||24hbook.com
 ||996.icu
