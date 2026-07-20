@@ -1615,6 +1615,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||clashyun.com
 ||chonglangtv.org
 ||ctinsider.com
 ||cia.gov
@@ -3445,6 +3446,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||sysub.com
 ||sider.ai
 ||sinchew.com.my
 ||softether.co.jp
