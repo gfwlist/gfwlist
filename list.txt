@@ -3718,6 +3718,7 @@ iipdigital.usembassy.gov
 ||textnow.com
 ||token.im
 ||tokenlon.im
+||tokenplus.app
 ||tardigrade.io
 ||torrentgalaxy.to
 ||tomp3.cc
