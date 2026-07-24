@@ -1615,6 +1615,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||circle19.org
 ||clashyun.com
 ||chonglangtv.org
 ||ctinsider.com
@@ -2654,6 +2655,7 @@ iipdigital.usembassy.gov
 ||juziyue.com
 ||cdn.jwplayer.com
 !--------------------KK-------------------------
+||kards.com
 ||kfor.com
 ||kathmandupost.com
 ||kingkong.com.tw
