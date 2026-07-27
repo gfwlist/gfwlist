@@ -3689,6 +3689,7 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||tryai.dev
 ||theintercept.com
 ||trtworld.com
 ||twstalker.com
