@@ -3723,7 +3723,6 @@ iipdigital.usembassy.gov
 ||token.im
 ||tokenlon.im
 ||tokenplus.app
-@@||*.tokenplus.app
 ||tardigrade.io
 ||torrentgalaxy.to
 ||tomp3.cc
