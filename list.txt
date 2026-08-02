@@ -1615,6 +1615,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cerebras.ai
 ||circle19.org
 ||clashyun.com
 ||chonglangtv.org
