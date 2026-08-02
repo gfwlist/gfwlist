@@ -1615,6 +1615,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cht.com.tw
 ||cerebras.ai
 ||circle19.org
 ||clashyun.com
@@ -1622,7 +1623,6 @@ iipdigital.usembassy.gov
 ||ctinsider.com
 ||cia.gov
 ||claude.com
-||www.clashverge.dev
 ||clementine-player.org
 ||backend-v2.crixet.com
 ||cchostvps.xyz
@@ -2938,7 +2938,6 @@ iipdigital.usembassy.gov
 |http://motherless.com
 ||movements.org
 ||moviefap.com
-||mozilla.ai
 ||www.moztw.org
 ||mpettis.com
 ||mpfinance.com
@@ -3161,7 +3160,6 @@ iipdigital.usembassy.gov
 ||pancakeswap.finance
 ||img.picgo.net
 ||pornmate.com
-||puredns.org
 ||polymarket.com
 ||pandafan.pub
 ||proxz.com
@@ -3359,7 +3357,6 @@ iipdigital.usembassy.gov
 ||rawstory.com
 ||recordedfuture.com
 ||roblox.com
-||radiojar.com
 ||radio.co
 ||rustdesk.com
 ||rentry.co
@@ -3467,7 +3464,6 @@ iipdigital.usembassy.gov
 ||swapspace.co
 ||storry.tv
 ||standard.co.uk
-||sagernet.org
 ||simplex.chat
 ||soundon.fm
 ||ssrtool.com
