@@ -706,8 +706,7 @@ www.aolnews.com
 ||whatsapp.com
 ||whatsapp.net
 !!---Fandom---
-||auntology.fandom.com
-||hongkong.fandom.com
+||fandom.com
 !!---FTChinese---
 ||ftchinese.com
 !!---Google---
