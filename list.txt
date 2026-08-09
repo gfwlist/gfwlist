@@ -1274,6 +1274,9 @@ iipdigital.usembassy.gov
 ||9bis.net
 ||9news.com.au
 !--------------------AA-------------------------
+||basemaps.arcgis.com
+||experience.arcgis.com
+||aihub.top
 ||accountboy.com
 ||acg.mn
 ||asiasociety.org
