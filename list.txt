@@ -1857,6 +1857,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||divdyn.com
 ||data18.com
 ||dt18.com
 ||dns.sb
