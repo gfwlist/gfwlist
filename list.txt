@@ -316,6 +316,7 @@
 ||xn--vuqv2cf7wzyig79c.com
 !-----------------DNS Poisoning-----------------
 !---Amazon---
+||s3.dualstack.us-west-2.amazonaws.com
 ||music.amazon.com
 ||cdn-images.mailchimp.com
 ||abebooks.com
