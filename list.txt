@@ -3078,6 +3078,7 @@ iipdigital.usembassy.gov
 ||nybooks.com
 ||nypost.com
 !--------------------OO-------------------------
+||oldmapsonline.org
 ||umap.openstreetmap.fr
 ||overdrive.com
 ||openart.ai
