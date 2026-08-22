@@ -42,7 +42,7 @@
 * **Cloudflare (testingcf):** `https://testingcf.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt`
 * **Fastly:** `https://fastly.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt`
 
-### 🔄 官方镜像源
+### 🔄 官方镜像源 (以下镜像可能出现不同步或者是境内外均访问缓慢的情况，不推荐)
 * **Repo.or.cz:** [http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt](http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt)
 * **GitLab:** [https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt](https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt)
 
