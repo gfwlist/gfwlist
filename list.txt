@@ -2807,6 +2807,9 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||historylines.net
+||kiwix.org
+||mceindex.com
 ||mhwindow.org
 ||mas.to
 ||mjj.today
