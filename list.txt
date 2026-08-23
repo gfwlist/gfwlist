@@ -4293,6 +4293,7 @@ iipdigital.usembassy.gov
 ||wuw.red
 ||wwitv.com
 !--------------------XX-------------------------
+||x86.fr
 ||xuan.com.my
 ||xdaforums.com
 ||xcancel.com
