@@ -3460,6 +3460,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||api.shuaiapi.com
 ||sb.sb
 ||sysub.com
 ||sider.ai
