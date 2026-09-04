@@ -1620,6 +1620,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||ctee.com.tw
 ||chatgpt.site
 ||cht.com.tw
 ||cerebras.ai
@@ -2360,6 +2361,7 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hkej.com
 ||hkong.hk
 ||hive.blog
 ||v2.hysteria.network
@@ -2718,6 +2720,7 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||linux.sb
 ||level-plus.net
 ||libgen.is
 ||lemonde.fr
