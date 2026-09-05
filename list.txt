@@ -1131,6 +1131,8 @@ www.aolnews.com
 ||x.com
 
 !!---Taiwan---
+||taiwanembassy.org
+||roc-taiwan.org
 ||twgov.tw
 ||gov.tw
 @@||www.gov.tw
@@ -1202,6 +1204,8 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||123av.me
+||123av.com
 ||18comic.vip
 ||18mh.net
 ||24hbook.com
@@ -3368,6 +3372,7 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||roushuwo.com
 ||esim.redteago.com
 ||restofworld.org
 ||rts.ch
@@ -3465,6 +3470,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||supjav.com
 ||api.shuaiapi.com
 ||sb.sb
 ||sysub.com
@@ -3707,6 +3713,7 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||taiav.com
 ||tryai.dev
 ||theintercept.com
 ||trtworld.com
@@ -4159,6 +4166,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||wtfpass.com
 ||write.as
 ||windy.com
 ||washingtontimes.com
