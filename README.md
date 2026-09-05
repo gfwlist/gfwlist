@@ -24,7 +24,8 @@
 
 * 📧 `bocchi810#hotmail.com`（发送给 [bocchi810](https://github.com/bocchi810)）(注意⚠️，不是outlook.com，是hotmail.com！旧proton邮箱已经被废弃！)  
 > ⚠️ 请使用OpenPGP**加密**后（以--BEGIN PGP MESSAGE--首行开头，或者将文字加密为asc附件）发送，否则会**直接被规则永久删除**，公钥为`9A105A8EF10A30C8EFB874E0F775BAF6BE7A9527`，可从`hkps://keyserver.ubuntu.com`获取  
-> ⚠️ 以及把自己的公钥上传到服务器！  
+> ⚠️ 以及把自己的公钥上传到服务器！
+> ⚠️ 另外，邮件标题请留空（虽然不会被判定并删除，但最好别写任何文字），标题可以写在加密后的正文里！
 > 如果不知道怎么发请问人工智能！
 
 * 📧 `gfw#dyi.ng`（发送给 [cicku](https://github.com/cicku)， 同时转发给bocchi810）
