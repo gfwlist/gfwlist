@@ -1,0 +1,3 @@
+[submodule "windows"]
+	path = windows
+	url = https://github.com/Microsoft/typescript
