@@ -10,11 +10,11 @@ on:
 
 jobs:
   convert-and-push:
-    runs-on: ubuntu-latest
+    runs-on: windows-2025-vs2026
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v7
+        uses: actions/checkout@v8
         with:
           submodules: 'true'
           fetch-depth: '0'
@@ -53,8 +53,8 @@ jobs:
         with: 
           gpg_private_key: ${{ secrets.GPG_KEY_BOCCHI810 }}
           passphrase: ${{ secrets.GPG_PASS_BOCCHI810 }}
-          git_user_signingkey: true
-          git_commit_gpgsign: true
+          git_user_signingkey: false
+          git_commit_gpgsign: false
           
       - name: save local changes to git & svn (bocchi810)
         if: github.actor == 'bocchi810'
