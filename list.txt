@@ -2057,6 +2057,7 @@ iipdigital.usembassy.gov
 ||eyevio.jp
 ||eyny.com
 !--------------------FF-------------------------
+||fuyin116.com
 ||freedom.gov
 ||hyperbeam.com
 ||flowgpt.com
@@ -2801,6 +2802,7 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||muse.ai
 ||historylines.net
 ||kiwix.org
 ||mceindex.com
