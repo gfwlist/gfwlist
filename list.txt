@@ -1115,6 +1115,22 @@ www.aolnews.com
 ||x.com
 
 !!---Taiwan---
+||khc.edu.tw
+||vscc.org.tw
+||poland.tw
+||tybio.com.tw
+||twfhcsec.com.tw
+||ttl.com.tw
+||tfd.org.tw
+||nstc.org.tw
+||mirdc.org.tw
+||landbank.com.tw
+||indsr.org.tw
+||icdf.org.tw
+||eximbank.com.tw
+||csc.com.tw
+||cpc.com.tw
+||aidc.com.tw
 ||taiwanembassy.org
 ||roc-taiwan.org
 ||twgov.tw
@@ -1126,6 +1142,7 @@ www.aolnews.com
 ||teco-mo.org
 ||kinmen.org.tw
 !!---USA---
+||ned.org
 ||spaceforce.mil
 ||airuniversity.af.edu
 ||supremecourt.gov
@@ -1441,6 +1458,8 @@ iipdigital.usembassy.gov
 !--boxun.azurewebsites.net doesn't exist.
 ||boxun*.azurewebsites.net
 !--------------------BB-------------------------
+||boylove.cc
+||blue-plus.net
 ||briarproject.org
 ||bilinovel.com
 ||boomplay.com
@@ -1608,6 +1627,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cangku.moe
 ||chineseposters.net
 ||ctee.com.tw
 ||chatgpt.site
@@ -1851,6 +1871,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||dh.net
 ||divdyn.com
 ||data18.com
 ||dt18.com
@@ -2352,6 +2373,9 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hentaiclub.net
+||hanimeone.me
+||hanime1.com
 ||hentai.tv
 ||hkej.com
 ||hkong.hk
@@ -2485,6 +2509,7 @@ iipdigital.usembassy.gov
 ||hypothes.is
 ||ebook.hyread.com.tw
 !--------------------II-------------------------
+||ipac.global
 ||infosec.exchange
 ||investing.com
 ||idcflare.com
@@ -2609,6 +2634,9 @@ iipdigital.usembassy.gov
 ||iyouport.com
 ||iyouport.org
 !--------------------JJ-------------------------
+||javchu.com
+||jkforum.net
+||javfree.me
 ||jhelab.org
 ||justmysockscn.com
 ||justmysocks.net
@@ -2802,6 +2830,8 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||matichon.co.th
+||moeli-desu.com
 ||muse.ai
 ||historylines.net
 ||kiwix.org
@@ -2820,6 +2850,8 @@ iipdigital.usembassy.gov
 ||mjj.rip
 ||mcusercontent.com
 ||metamask.io
+||missav.live
+||missav.ai
 ||missav.ws
 ||news.mt.co.kr
 ||musixmatch.com
@@ -2969,9 +3001,10 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||nationthailand.com
 ||note.com
 ||nthlink.com
-||neodb.social 
+||neodb.social
 ||nfscofficial.com
 ||nfsc.press
 ||newstimes.com
@@ -3343,6 +3376,7 @@ iipdigital.usembassy.gov
 ||pximg.net
 ||python.com.tw
 !--------------------QQ-------------------------
+||qingse.one
 ||qobuz.com
 ||quakemachinex.com
 |http://qmp4.com
@@ -3363,6 +3397,7 @@ iipdigital.usembassy.gov
 ||quitccp.org
 |http://quran.com
 !--------------------RR-------------------------
+||rocmgov.org
 ||roushuwo.com
 ||esim.redteago.com
 ||restofworld.org
@@ -4302,6 +4337,7 @@ iipdigital.usembassy.gov
 ||wuw.red
 ||wwitv.com
 !--------------------XX-------------------------
+||xx.net
 ||x86.fr
 ||xuan.com.my
 ||xdaforums.com
