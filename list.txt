@@ -659,6 +659,8 @@ www.aolnews.com
 !!---Dynu---
 ||dynu.com
 !!---Facebook---
+||meta.ai
+||metaaivm.com
 ||accountkit.com
 ||cdninstagram.com
 ||f8.com
@@ -1205,6 +1207,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||7x24hrs.com
 ||123av.me
 ||123av.com
 ||18comic.vip
