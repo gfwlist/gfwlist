@@ -93,17 +93,17 @@ jobs:
           echo "Syncing $(git rev-parse --short HEAD) to GitLab..."
           git push --force "https://${username}:${GITLAB_TOKEN}@gitlab.com/gfwlist/gfwlist.git" "HEAD:refs/heads/master"
 
-      - name: Push to Bitbucket
-        if: github.ref == 'refs/heads/master'
-        env:
-          BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
-          BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
-        run: |
-          set -euo pipefail
-          if [ -z "${BITBUCKET_TOKEN:-}" ]; then
-            echo "::warning::BITBUCKET_TOKEN is not configured, skipping Bitbucket mirror sync."
-            exit 0
-          fi
-          export GIT_TERMINAL_PROMPT=0
-          echo "Syncing $(git rev-parse --short HEAD) to Bitbucket..."
-          git push --force "https://${BITBUCKET_TOKEN}@bitbucket.org/gfwlist/gfwlist.git" "HEAD:refs/heads/master"
+#      - name: Push to Bitbucket
+#        if: github.ref == 'refs/heads/master'
+#        env:
+#          BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
+#          BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
+#        run: |
+#          set -euo pipefail
+#          if [ -z "${BITBUCKET_TOKEN:-}" ]; then
+#            echo "::warning::BITBUCKET_TOKEN is not configured, skipping Bitbucket mirror sync."
+#            exit 0
+#          fi
+#          export GIT_TERMINAL_PROMPT=0
+#          echo "Syncing $(git rev-parse --short HEAD) to Bitbucket..."
+#          git push --force "https://${BITBUCKET_TOKEN}@bitbucket.org/gfwlist/gfwlist.git" "HEAD:refs/heads/master"
