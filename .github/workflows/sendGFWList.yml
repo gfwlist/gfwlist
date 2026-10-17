@@ -74,3 +74,34 @@ jobs:
         with:
           commit_message: gfwlist edited ${{ env.DATE }}
           file_pattern: 'gfwlist.txt'
+      - name: Push to GitLab
+        if: github.ref == 'refs/heads/master'
+        env:
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+          GITLAB_USERNAME: ${{ secrets.GITLAB_USERNAME }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GITLAB_TOKEN:-}" ]; then
+            echo "::warning::GITLAB_TOKEN is not configured, skipping GitLab mirror sync."
+            exit 0
+          fi
+          export GIT_TERMINAL_PROMPT=0
+          username="${GITLAB_USERNAME:-oauth2}"
+          echo "Syncing $(git rev-parse --short HEAD) to GitLab..."
+          git push --force "https://${username}:${GITLAB_TOKEN}@gitlab.com/gfwlist/gfwlist.git" "HEAD:refs/heads/master"
+
+      - name: Push to Bitbucket
+        if: github.ref == 'refs/heads/master'
+        env:
+          BITBUCKET_TOKEN: ${{ secrets.BITBUCKET_TOKEN }}
+          BITBUCKET_USERNAME: ${{ secrets.BITBUCKET_USERNAME }}
+        run: |
+          set -euo pipefail
+          if [ -z "${BITBUCKET_TOKEN:-}" ]; then
+            echo "::warning::BITBUCKET_TOKEN is not configured, skipping Bitbucket mirror sync."
+            exit 0
+          fi
+          export GIT_TERMINAL_PROMPT=0
+          username="${BITBUCKET_USERNAME:-x-token-auth}"
+          echo "Syncing $(git rev-parse --short HEAD) to Bitbucket..."
+          git push --force "https://${username}:${BITBUCKET_TOKEN}@bitbucket.org/gfwlist/gfwlist.git" "HEAD:refs/heads/master"
