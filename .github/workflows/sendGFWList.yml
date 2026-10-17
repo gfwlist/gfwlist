@@ -105,6 +105,5 @@ jobs:
             exit 0
           fi
           export GIT_TERMINAL_PROMPT=0
-          username="${BITBUCKET_USERNAME:-x-token-auth}"
           echo "Syncing $(git rev-parse --short HEAD) to Bitbucket..."
-          git push --force "https://${username}:${BITBUCKET_TOKEN}@bitbucket.org/gfwlist/gfwlist.git" "HEAD:refs/heads/master"
+          git push --force "https://x-token-auth:${BITBUCKET_TOKEN}@bitbucket.org/gfwlist/gfwlist.git" "HEAD:refs/heads/master"
