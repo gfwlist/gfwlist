@@ -61,6 +61,7 @@ jobs:
         id: auto-commit-action-bocchi810
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
+          skip_fetch: true
           commit_author: "${{ steps.import-gpg-bocchi810.outputs.name }} <${{ steps.import-gpg-bocchi810.outputs.email }}>"
           commit_user_name: ${{ steps.import-gpg-bocchi810.outputs.name }}
           commit_user_email: ${{ steps.import-gpg-bocchi810.outputs.email }}
@@ -72,8 +73,10 @@ jobs:
         id: auto-commit-action
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
+          skip_fetch: true
           commit_message: gfwlist edited ${{ env.DATE }}
           file_pattern: 'gfwlist.txt'
+
       - name: Push to GitLab
         if: github.ref == 'refs/heads/master'
         env:
