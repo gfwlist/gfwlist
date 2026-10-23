@@ -1630,6 +1630,7 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||console.typesafe.ai
 ||cangku.moe
 ||chineseposters.net
 ||ctee.com.tw
@@ -2637,6 +2638,7 @@ iipdigital.usembassy.gov
 ||iyouport.com
 ||iyouport.org
 !--------------------JJ-------------------------
+||ga.jspm.io
 ||javchu.com
 ||jkforum.net
 ||javfree.me
