@@ -1207,6 +1207,7 @@ iipdigital.usembassy.gov
 ||yahoo.com.hk
 ||yahoo.com
 !------------------Numerics---------------------
+||123av.org
 ||7x24hrs.com
 ||123av.me
 ||123av.com
@@ -1999,6 +2000,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||movie.eroterest.net
 ||edigest.hk
 ||app.element.io
 ||economist.com
@@ -2690,6 +2692,7 @@ iipdigital.usembassy.gov
 ||juziyue.com
 ||cdn.jwplayer.com
 !--------------------KK-------------------------
+||kimootoko.net
 ||kards.com
 ||kfor.com
 ||kathmandupost.com
@@ -2835,6 +2838,7 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||minkch.com
 ||matichon.co.th
 ||moeli-desu.com
 ||muse.ai
@@ -3006,6 +3010,9 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||njavtv.com
+||njav.tv
+||njav.com
 ||nationthailand.com
 ||note.com
 ||nthlink.com
@@ -3191,6 +3198,7 @@ iipdigital.usembassy.gov
 ||ow.ly
 ||ozvoice.org
 !--------------------PP-------------------------
+||po-kaki-to.com
 ||perma.cc
 ||pcgamesn.com
 ||penguin.com.au
@@ -4444,6 +4452,7 @@ iipdigital.usembassy.gov
 ||yysub.net
 ||yzzk.com
 !--------------------ZZ-------------------------
+||zozovideo.com
 ||zenmux.ai
 ||zhangzhehan.net
 ||zaochenbao.com
