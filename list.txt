@@ -37,6 +37,7 @@
 ||angela-merkel.de
 ||angola.org
 ||anthropic.com
+||anthropic.auth0.com
 ||apartmentratings.com
 ||apartments.com
 ||arena.taipei
