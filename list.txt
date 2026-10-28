@@ -58,6 +58,9 @@
 ||ciciai.com
 ||cici.com
 ||claude.ai
+||claude.app
+||claudeusercontent.com
+||claudemcpcontent.com
 ||clearsurance.com
 ||cnbeta.com.tw
 ||counter.social
