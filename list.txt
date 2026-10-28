@@ -1607,6 +1607,7 @@ iipdigital.usembassy.gov
 ||brookings.edu
 ||brutaltgp.com
 ||bsky.app
+||bsky.chat
 ||bsky.network
 ||bsky.social
 ||bt95.com
