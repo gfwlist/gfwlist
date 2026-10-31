@@ -3758,6 +3758,8 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||api.themoviedb.org
+||torrentleech.org
 ||taiav.com
 ||tryai.dev
 ||theintercept.com
@@ -4403,6 +4405,7 @@ iipdigital.usembassy.gov
 ||xxxx.com.au
 |http://xxxymovies.com
 !--------------------YY-------------------------
+||youversionapi.com
 ||yfsp.tv
 ||youmind.com
 ||yangzhi.org
