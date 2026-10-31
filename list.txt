@@ -2318,6 +2318,7 @@ iipdigital.usembassy.gov
 ||github.com
 ||githubcopilot.com
 ||github.io
+||githubhelp.com
 ||githubusercontent.com
 ||githubassets.com
 ||gizlen.net
