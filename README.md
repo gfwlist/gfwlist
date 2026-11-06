@@ -38,14 +38,16 @@
 
 由于 GitHub 原始链接在国内部分地区可能存在连接问题，**强烈建议使用以下镜像或 CDN 加速链接。**
 
+
+### 🔄 官方镜像源 (以下镜像可能出现不同步或者是境内外均访问缓慢的情况，不推荐)
+* **Repo.or.cz:** [https://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt](https://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt)
+* **BitBucket:** [https://bitbucket.org/gfwlist/gfwlist/raw/master/gfwlist.txt](https://bitbucket.org/gfwlist/gfwlist/raw/master/gfwlist.txt)
+* **GitLab:** [https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt](https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt)
+
 ### ⚡ CDN 加速地址（推荐）
 * **Cloudflare (gcore):** `https://gcore.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt`
 * **Cloudflare (testingcf):** `https://testingcf.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt`
 * **Fastly:** `https://fastly.jsdelivr.net/gh/gfwlist/gfwlist/gfwlist.txt`
-
-### 🔄 官方镜像源 (以下镜像可能出现不同步或者是境内外均访问缓慢的情况，不推荐)
-* **Repo.or.cz:** [http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt](http://repo.or.cz/gfwlist.git/blob_plain/HEAD:/gfwlist.txt)
-* **GitLab:** [https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt](https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt)
 
 ### 🐙 GitHub 原始地址
 * **GitHub:** `https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt`
