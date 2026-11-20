@@ -4434,6 +4434,7 @@ iipdigital.usembassy.gov
 ||xxxx.com.au
 |http://xxxymovies.com
 !--------------------YY-------------------------
+||mc.yandex.ru
 ||youversionapi.com
 ||yfsp.tv
 ||youmind.com
