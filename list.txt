@@ -1638,6 +1638,9 @@ iipdigital.usembassy.gov
 ||bwh1.net
 ||bypasscensorship.org
 !--------------------CC-------------------------
+||cnyes.com
+||cmoney.tw
+||cmmedia.com.tw
 ||console.typesafe.ai
 ||cangku.moe
 ||chineseposters.net
@@ -2008,6 +2011,7 @@ iipdigital.usembassy.gov
 ||dynawebinc.com
 ||dysfz.cc
 !--------------------EE-------------------------
+||e-info.org.tw
 ||movie.eroterest.net
 ||edigest.hk
 ||app.element.io
@@ -2246,6 +2250,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||greenbean.media
 ||gamma.app
 ||c.go-mpulse.net
 ||getmonero.org
@@ -2387,6 +2392,9 @@ iipdigital.usembassy.gov
 ||gunsamerica.com
 |http://gvlib.com
 !--------------------HH-------------------------
+||hkfeature.com
+||hkcourtnews.com
+||hkcitycreation.com
 ||hentaiclub.net
 ||hanimeone.me
 ||hanime1.com
@@ -2755,6 +2763,8 @@ iipdigital.usembassy.gov
 ||kzaobao.com
 ||kzeng.info
 !--------------------LL-------------------------
+||limedia.tw
+||lifesitenews.com
 ||linux.sb
 ||level-plus.net
 ||libgen.is
@@ -2846,6 +2856,9 @@ iipdigital.usembassy.gov
 ||lzmtnews.org
 ||leonardo.ai
 !--------------------MM-------------------------
+||my-formosa.com.tw
+||moneynet.com.tw
+||master-insight.com
 ||minkch.com
 ||matichon.co.th
 ||moeli-desu.com
@@ -3018,6 +3031,7 @@ iipdigital.usembassy.gov
 ||mypopescu.com
 ||myspacecdn.com
 !--------------------NN-------------------------
+||nextapple.com
 ||njavtv.com
 ||njav.tv
 ||njav.com
@@ -3206,6 +3220,8 @@ iipdigital.usembassy.gov
 ||ow.ly
 ||ozvoice.org
 !--------------------PP-------------------------
+||pulsehknews.com
+||passiontimes.hk
 ||po-kaki-to.com
 ||perma.cc
 ||pcgamesn.com
@@ -3517,6 +3533,8 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||singpao.com.hk
+||shanghainationalparty.com
 ||soulogic.com
 ||sing-box.sagernet.org
 ||supjav.com
@@ -3762,6 +3780,12 @@ iipdigital.usembassy.gov
 ||syncback.com
 ||sotwe.com
 !--------------------TT-------------------------
+||thewitnesshk.com
+||thestar.com
+||thestandard.com.hk
+||theonlinecitizen.com
+||thecollectivehk.com
+||taiwantoday.tw
 ||api.themoviedb.org
 ||torrentleech.org
 ||taiav.com
@@ -4218,6 +4242,7 @@ iipdigital.usembassy.gov
 ||vrporn.com
 ||vtunnel.com
 !--------------------WW-------------------------
+||womany.net
 ||wallhaven.cc
 ||wtfpass.com
 ||write.as
