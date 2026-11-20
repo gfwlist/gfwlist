@@ -1883,6 +1883,7 @@ iipdigital.usembassy.gov
 ||mike.cz.cc
 ||nic.cz.cc
 !--------------------DD-------------------------
+||duck.ai
 ||dh.net
 ||divdyn.com
 ||data18.com
@@ -2245,6 +2246,7 @@ iipdigital.usembassy.gov
 ||fxcm-chinese.com
 ||f95zone.to
 !--------------------GG-------------------------
+||gamma.app
 ||c.go-mpulse.net
 ||getmonero.org
 ||gate.com
@@ -2269,7 +2271,6 @@ iipdigital.usembassy.gov
 ||gabocorp.com
 ||gagaoolala.com
 ||galenwu.com
-||game735.com
 |http://wiki.gamerp.jp
 ||gamer.com.tw
 ||gamez.com.tw
@@ -3516,6 +3517,7 @@ iipdigital.usembassy.gov
 ||raphael.app
 ||rule34.us
 !--------------------SS-------------------------
+||soulogic.com
 ||sing-box.sagernet.org
 ||supjav.com
 ||api.shuaiapi.com
